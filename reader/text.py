@@ -45,7 +45,7 @@ class Text:
     @property
     def words(self) -> list[str]:
         """Words in the text box."""
-        return self.text.split()
+        return self.text.split(" ")
 
     @property
     def word_count(self) -> int:
@@ -53,5 +53,7 @@ class Text:
         return len(self.words)
 
     def __repr__(self) -> str:
-        string = f"Book: {self.book}; Page: {self.page}; Word Count: {self.word_count}; Box Height: {self.box.height}; Box Location: {self.box.location}"
+        string = f"Book: {self.book}; Page: {self.page}; Word Count: "
+        string += f"{self.word_count}; Box Height: {self.box.height}; "
+        string += f"Box Location: {self.box.location}"
         return string
