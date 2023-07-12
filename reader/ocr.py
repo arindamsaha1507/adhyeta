@@ -69,12 +69,6 @@ def ocr_single(
     components = store_text(book, texts, page_num)
     return components
 
-    # if response.error.message:
-    #     raise RuntimeError(
-    #         f"{response.error.message}\nFor more info on error messages, check: "
-    #         "https://cloud.google.com/apis/design/errors"
-    #     )
-
 
 def ocr_bulk(in_dir: str, out_path: Optional[str] = None) -> None:
     """Detects text in directory."""
@@ -82,8 +76,9 @@ def ocr_bulk(in_dir: str, out_path: Optional[str] = None) -> None:
     if out_path:
         os.makedirs(out_path, exist_ok=True)
 
-    for i, image_path in enumerate(sorted(os.listdir(in_dir))):
-        print(f"Processing image {i+1}...")
+    print(f"OCR-ing images in {in_dir}...")
+
+    for image_path in sorted(os.listdir(in_dir)):
         in_file = os.path.join(in_dir, image_path)
         if out_path:
             out_file = os.path.join(out_path, image_path.replace(".png", ".txt"))
