@@ -1,478 +1,462 @@
-champuramayanam	1	1478	(2, 93)	THE
-CHAMPÛ-RÂMÂYANA.
-OF
-KING BHOJA (1-5 Kândas)
-AN...
-champuramayanam	1	24	(377, 94)	THE
-champuramayanam	1	74	(69, 161)	CHAMPÛ
-champuramayanam	1	72	(358, 163)	-
-champuramayanam	1	74	(374, 162)	RÂMÂYANA
-champuramayanam	1	72	(784, 164)	.
-champuramayanam	1	18	(403, 292)	OF
-champuramayanam	1	38	(100, 354)	KING
-champuramayanam	1	37	(246, 353)	BHOJA
-champuramayanam	1	37	(445, 353)	(
-champuramayanam	1	37	(462, 353)	1-5
-champuramayanam	1	37	(550, 352)	Kândas
-champuramayanam	1	37	(709, 352)	)
-champuramayanam	1	12	(398, 440)	AND
-champuramayanam	1	43	(29, 502)	LAKSHMANA
-champuramayanam	1	41	(364, 504)	SÛRI
-champuramayanam	1	41	(518, 505)	(
-champuramayanam	1	41	(533, 505)	6th
-champuramayanam	1	42	(625, 505)	Kânda
-champuramayanam	1	41	(764, 506)	)
-champuramayanam	1	41	(777, 506)	.
-champuramayanam	1	25	(2, 591)	WITH
-champuramayanam	1	25	(88, 591)	THE
-champuramayanam	1	25	(156, 591)	COMMENTARY
-champuramayanam	1	25	(366, 591)	OF
-champuramayanam	1	25	(415, 591)	RÂMACHANDRA
-champuramayanam	1	25	(648, 591)	BUDHENDRA
-champuramayanam	1	23	(302, 769)	EDITED
-champuramayanam	1	13	(400, 834)	BY
-champuramayanam	1	51	(110, 887)	KASHINATH
-champuramayanam	1	51	(355, 890)	PÂNDURANG
-champuramayanam	1	49	(611, 894)	PARAB
-champuramayanam	1	47	(735, 896)	.
-champuramayanam	1	27	(147, 1101)	PRINTED
-champuramayanam	1	27	(350, 1101)	AND
-champuramayanam	1	27	(455, 1101)	PUBLISHED
-champuramayanam	1	13	(400, 1166)	BY
-champuramayanam	1	37	(213, 1223)	TUKÂRÂM
-champuramayanam	1	37	(456, 1223)	JÂVAJI
-champuramayanam	1	24	(188, 1297)	OF
-champuramayanam	1	24	(235, 1297)	JAVAJI
-champuramayanam	1	26	(338, 1297)	DADAJI'S
-champuramayanam	1	24	(467, 1298)	"
-champuramayanam	1	25	(480, 1298)	NIRNAYA
-champuramayanam	1	24	(594, 1298)	-
-champuramayanam	1	25	(602, 1298)	SAGAR
-champuramayanam	1	36	(317, 1351)	Bombay
-champuramayanam	1	32	(509, 1355)	.
-champuramayanam	1	24	(374, 1448)	1898
-champuramayanam	1	22	(450, 1450)	.
-champuramayanam	1	31	(319, 1536)	rice
-champuramayanam	1	28	(387, 1539)	2
-champuramayanam	1	32	(420, 1539)	Rupees
-champuramayanam	1	28	(518, 1543)	.
-champuramayanam	1	8	(686, 1301)	"
-champuramayanam	1	8	(691, 1301)	}
-champuramayanam	1	21	(715, 1301)	PRESS
-champuramayanam	1	18	(788, 1303)	.
-champuramayanam	2	233	(296, 653)	(Registered under Act XXV of 1867.)
-[ All rights r...
-champuramayanam	2	45	(304, 654)	(
-champuramayanam	2	67	(325, 657)	Registered
-champuramayanam	2	57	(478, 684)	under
-champuramayanam	2	49	(576, 703)	Act
-champuramayanam	2	54	(639, 714)	XXV
-champuramayanam	2	46	(732, 731)	of
-champuramayanam	2	54	(775, 738)	1867.
-champuramayanam	2	43	(844, 751)	)
-champuramayanam	2	31	(304, 769)	[
-champuramayanam	2	35	(325, 772)	All
-champuramayanam	2	42	(380, 781)	rights
-champuramayanam	2	47	(471, 796)	reserved
-champuramayanam	2	34	(590, 816)	by
-champuramayanam	2	35	(632, 823)	the
-champuramayanam	2	50	(684, 831)	Publisher
-champuramayanam	2	30	(807, 853)	.
-champuramayanam	2	31	(820, 855)	]
-champuramayanam	3	1425	(69, 92)	॥ श्रीः ॥
-श्रीभोजराजविरचितं (पञ्चमकाण्ड पर्यन्त
-लक...
-champuramayanam	3	37	(350, 96)	॥
-champuramayanam	3	38	(386, 96)	श्रीः
-champuramayanam	3	37	(462, 98)	॥
-champuramayanam	3	58	(98, 181)	श्रीभोजराजविरचितं
-champuramayanam	3	58	(477, 181)	(
-champuramayanam	3	58	(496, 181)	पञ्चमकाण्ड
-champuramayanam	3	58	(623, 181)	पर्यन्त
-champuramayanam	3	50	(130, 263)	लक्ष्मणसूरिविरचितं
-champuramayanam	3	47	(490, 266)	(
-champuramayanam	3	48	(502, 266)	षष्ठकाण्डमात्रम्
-champuramayanam	3	47	(684, 267)	)
-champuramayanam	3	73	(172, 390)	चम्पूरामायणम्
-champuramayanam	3	80	(643, 382)	।
-champuramayanam	3	49	(70, 524)	रामचन्द्रबुधेन्द्रविरचितया
-champuramayanam	3	49	(474, 524)	व्याख्यया
-champuramayanam	3	49	(636, 524)	समेतम्
-champuramayanam	3	49	(756, 524)	।
-champuramayanam	3	8	(82, 992)	F
-champuramayanam	3	69	(162, 723)	काशीनाथ
-champuramayanam	3	69	(388, 728)	पाण्डुरङ्ग
-champuramayanam	3	67	(580, 732)	परब
-champuramayanam	3	41	(310, 841)	इत्यनेन
-champuramayanam	3	41	(405, 842)	संस्कृतम्
-champuramayanam	3	39	(517, 844)	।
-champuramayanam	3	24	(394, 1047)	तच्च
-champuramayanam	3	38	(294, 1112)	शाके
-champuramayanam	3	37	(373, 1111)	१८२०
-champuramayanam	3	36	(466, 1111)	चत्सरे
-champuramayanam	3	45	(346, 1195)	मुम्बय्यां
-champuramayanam	3	52	(73, 1259)	निर्णयसांगराख्ययन्त्रालये
-champuramayanam	3	51	(396, 1261)	तदधिपतिना
-champuramayanam	3	50	(562, 1262)	मुद्राक्षरैरङ्कयित्वा
-champuramayanam	3	43	(311, 1330)	प्राकाश्यं
-champuramayanam	3	41	(429, 1332)	नीतम्
-champuramayanam	3	40	(526, 1334)	।
-champuramayanam	3	34	(321, 1483)	मूल्यं
-champuramayanam	3	34	(387, 1483)	रूप्यकद्वयम्
-champuramayanam	3	34	(528, 1483)	।
-champuramayanam	5	1448	(45, 90)	॥ श्रीः ॥
-श्रीभोजराजविरचितं
-चम्पूरामायणम् ।
-श्रीरा...
-champuramayanam	5	47	(374, 92)	॥
-champuramayanam	5	46	(411, 91)	श्रीः
-champuramayanam	5	47	(495, 90)	॥
-champuramayanam	5	65	(230, 169)	श्रीभोजराजविरचितं
-champuramayanam	5	92	(196, 281)	चम्पूरामायणम्
-champuramayanam	5	95	(673, 277)	।
-champuramayanam	5	67	(46, 386)	श्रीरामचन्द्रबुधेन्द्रविरचितया
-champuramayanam	5	67	(518, 386)	व्याख्यया
-champuramayanam	5	67	(697, 386)	समेतम्
-champuramayanam	5	67	(826, 386)	।
-champuramayanam	5	41	(318, 525)	बालकाण्डम्
-champuramayanam	5	39	(547, 527)	|
-champuramayanam	5	34	(208, 577)	गुरवे
-champuramayanam	5	35	(272, 577)	सर्वलोकानां
-champuramayanam	5	34	(406, 578)	भिषजे
-champuramayanam	5	36	(492, 578)	भवरोगिणाम्
-champuramayanam	5	34	(644, 579)	।
-champuramayanam	5	43	(209, 616)	निधये
-champuramayanam	5	44	(289, 617)	सर्वविद्यानां
-champuramayanam	5	44	(419, 619)	दक्षिणामूर्तये
-champuramayanam	5	42	(569, 622)	नमः
-champuramayanam	5	41	(632, 623)	॥
-champuramayanam	5	33	(211, 668)	शिवानन्दाश्रयगुरोश्चरणस्मरणं
-champuramayanam	5	33	(541, 668)	मम
-champuramayanam	5	33	(595, 668)	।
-champuramayanam	5	37	(211, 710)	उत्साहशक्तिजं
-champuramayanam	5	35	(382, 711)	तेजस्तनोतु
-champuramayanam	5	35	(508, 712)	मुखपङ्कजे
-champuramayanam	5	35	(626, 712)	॥
-champuramayanam	5	33	(210, 753)	विघ्नेश
-champuramayanam	5	36	(291, 752)	विधिमार्तण्डचन्द्रेन्द्रोपेन्द्रवन्दित
-champuramayanam	5	33	(641, 755)	।
-champuramayanam	5	36	(209, 796)	नमो
-champuramayanam	5	36	(267, 796)	गणपते
-champuramayanam	5	36	(353, 796)	तुभ्यं
-champuramayanam	5	36	(420, 797)	ब्रह्मणां
-champuramayanam	5	38	(501, 797)	ब्रह्मणस्पते
-champuramayanam	5	36	(626, 798)	॥
-champuramayanam	5	39	(172, 836)	सीताकल्पलतान्वितं
-champuramayanam	5	39	(395, 836)	दशरथाम्भोराशिजं
-champuramayanam	5	39	(610, 836)	सोदरो
-champuramayanam	5	37	(210, 884)	दारस्कन्धमभीष्टदं
-champuramayanam	5	37	(414, 884)	सुमनसां
-champuramayanam	5	37	(512, 884)	श्रेणीभिरामोदितम्
-champuramayanam	5	37	(722, 884)	।
-champuramayanam	5	34	(174, 929)	नित्यं
-champuramayanam	5	33	(237, 929)	स्वाधितनन्दनं
-champuramayanam	5	32	(400, 927)	किसलयश्रीपञ्चशाखोज्वलं
-champuramayanam	5	41	(210, 968)	श्रीरामामरभूरुहं
-champuramayanam	5	42	(393, 967)	हृदि
-champuramayanam	5	41	(449, 967)	सदा
-champuramayanam	5	41	(505, 966)	सेवेऽर्थसंसिद्धये
-champuramayanam	5	41	(683, 966)	॥
-champuramayanam	5	33	(210, 1019)	सुधाकरसुधाकराच्छरदभास्वराभास्वरा
-champuramayanam	5	36	(239, 1056)	'
-champuramayanam	5	42	(245, 1055)	श्चितक्रमविपश्चिकाक्कणनसादरा
-champuramayanam	5	38	(578, 1060)	सादरा
-champuramayanam	5	36	(666, 1062)	|
-champuramayanam	5	38	(212, 1101)	विरिश्चिनवमोहनागमविशारदा
-champuramayanam	5	36	(544, 1104)	शारदा
-champuramayanam	5	37	(244, 1146)	मदीयरसनाङ्गणे
-champuramayanam	5	37	(426, 1146)	नटतु
-champuramayanam	5	37	(492, 1146)	सर्वदा
-champuramayanam	5	37	(568, 1146)	सर्वदा
-champuramayanam	5	37	(648, 1146)	||
-champuramayanam	5	42	(135, 1188)	यत्पादाम्भोजरेणुं
-champuramayanam	5	42	(328, 1189)	विबुधकविवराः
-champuramayanam	5	40	(502, 1190)	प्राप्य
-champuramayanam	5	40	(577, 1190)	सिद्धाञ्जनं
-champuramayanam	5	40	(686, 1191)	वा
-champuramayanam	5	43	(174, 1230)	प्रज्ञादृष्टेः
-champuramayanam	5	43	(276, 1230)	प्रमीलां
-champuramayanam	5	43	(363, 1230)	पटुतरतमसा
-champuramayanam	5	43	(510, 1230)	प्राप्तवत्या
-champuramayanam	5	43	(623, 1230)	निजायाः
-champuramayanam	5	43	(735, 1230)	।
-champuramayanam	5	43	(136, 1272)	आसाद्योन्मेषमारान्निधिमिव
-champuramayanam	5	43	(434, 1272)	कवितां
-champuramayanam	5	43	(522, 1272)	प्रापुरुद्यद्भुणार्थी
-champuramayanam	5	38	(175, 1323)	निष्प्रत्यूहं
-champuramayanam	5	38	(286, 1322)	मुदास्मान्स
-champuramayanam	5	38	(416, 1321)	सुरवरनुतः
-champuramayanam	5	38	(544, 1320)	पातु
-champuramayanam	5	37	(599, 1320)	हेरम्बदेवः
-champuramayanam	5	38	(723, 1319)	॥
-champuramayanam	5	42	(136, 1364)	श्रीमांस्त्रैलिङ्गदेशे
-champuramayanam	5	42	(316, 1364)	स
-champuramayanam	5	42	(349, 1364)	जयति
-champuramayanam	5	42	(432, 1364)	विबुधश्रेणिकोटीरकोटी
-champuramayanam	5	39	(174, 1408)	कोटीमाणिक्यभूतागणितगुणगणोऽखण्डपाण्डित्यशौण्ड
-champuramayanam	5	39	(741, 1408)	:
-champuramayanam	5	39	(766, 1408)	।
-champuramayanam	5	45	(136, 1448)	धीरः
-champuramayanam	5	45	(202, 1448)	शाण्डिल्यगोत्रः
-champuramayanam	5	45	(380, 1448)	सकलकविकुलाहादिसूक्तिप्रवीणो
-champuramayanam	5	43	(174, 1493)	वीणोदाहार्यविद्याविवरणनिपुणो
-champuramayanam	5	41	(532, 1495)	रामचन्द्रो
-champuramayanam	5	41	(634, 1496)	बुधेन्द्रः
-champuramayanam	5	41	(734, 1496)	॥
-champuramayanam	6	1520	(60, 82)	चम्पूरामायणम् |
-नित्यं संभ्रमजृम्भिता नति या भारती...
-champuramayanam	6	31	(376, 82)	चम्पूरामायणम्
-champuramayanam	6	31	(590, 82)	|
-champuramayanam	6	38	(236, 154)	नित्यं
-champuramayanam	6	37	(297, 153)	संभ्रमजृम्भिता
-champuramayanam	6	37	(453, 151)	नति
-champuramayanam	6	37	(525, 150)	या
-champuramayanam	6	38	(639, 148)	भारती
-champuramayanam	6	40	(270, 192)	जायन्ते
-champuramayanam	6	42	(359, 191)	कविपुंगवास्तनुभृतो
-champuramayanam	6	42	(561, 192)	यफनिर्वर्णनात्
-champuramayanam	6	40	(736, 193)	।
-champuramayanam	6	36	(238, 239)	भोजक्षोणिभुजामुना
-champuramayanam	6	36	(452, 239)	विरचितश्चम्पूप्रवन्धोऽधुना
-champuramayanam	6	39	(272, 280)	व्याख्यां
-champuramayanam	6	38	(362, 280)	तस्य
-champuramayanam	6	39	(416, 280)	करोमि
-champuramayanam	6	39	(496, 281)	मञ्जुलतरां
-champuramayanam	6	40	(605, 281)	साहित्यमजूषिकाम्
-champuramayanam	6	38	(800, 283)	॥
-champuramayanam	6	41	(236, 320)	व्याकुर्वन्ति
-champuramayanam	6	42	(356, 320)	निवद्धगौरवभयान्नैव
-champuramayanam	6	41	(566, 321)	स्फुटं
-champuramayanam	6	41	(628, 322)	युक्तिभि
-champuramayanam	6	38	(273, 365)	र्य
-champuramayanam	6	41	(302, 364)	तेऽध्येतृजनप्रतारणपराः
-champuramayanam	6	38	(558, 367)	का
-champuramayanam	6	39	(597, 367)	नैपुणी
-champuramayanam	6	38	(669, 368)	वा
-champuramayanam	6	38	(706, 368)	ततः
-champuramayanam	6	38	(765, 369)	।
-champuramayanam	6	36	(237, 408)	वैखर्या
-champuramayanam	6	36	(313, 409)	वचसां
-champuramayanam	6	36	(388, 410)	कवीशहृदयं
-champuramayanam	6	36	(515, 412)	प्रख्यापयन्नन्वय-
-champuramayanam	6	34	(686, 414)	.
-champuramayanam	6	38	(274, 451)	द्वारवाहमिहाखिलं
-champuramayanam	6	39	(463, 452)	प्रविष्वृणोम्युक्तिमजोजृम्भितम्
-champuramayanam	6	36	(770, 455)	॥
-champuramayanam	6	43	(96, 493)	अद्य
-champuramayanam	6	43	(160, 493)	खलु
-champuramayanam	6	43	(223, 493)	तत्रभवान्विचित्रसरसकविताकल्पलतामञ्जर्यामोदिताशेषवि...
-champuramayanam	6	42	(62, 536)	ऽनवद्यनिखिलविद्याभिज्ञः
-champuramayanam	6	42	(317, 536)	सर्वज्ञसार्वभौमो
-champuramayanam	6	42	(472, 536)	भोजनामा
-champuramayanam	6	42	(578, 536)	महाराजः
-champuramayanam	6	42	(683, 536)	समस्तसद्गुणमणिगणाभि
-champuramayanam	6	36	(61, 581)	रामस्य
-champuramayanam	6	36	(131, 581)	तारकब्रह्मरूपिणस्तत्रभवतः
-champuramayanam	6	36	(403, 581)	श्रीरामस्य
-champuramayanam	6	36	(504, 581)	चरितानुवर्णनं
-champuramayanam	6	36	(648, 581)	निःश्रेयसनिदानं
-champuramayanam	6	36	(811, 581)	निजान्तरङ्गे
-champuramayanam	6	38	(62, 622)	निर्वर्ण्य
-champuramayanam	6	38	(143, 622)	'
-champuramayanam	6	38	(157, 622)	काव्यं
-champuramayanam	6	38	(215, 622)	यशसेऽर्थकृते
-champuramayanam	6	38	(356, 622)	व्यवहारविदे
-champuramayanam	6	38	(491, 622)	शिवेतरक्षतये
-champuramayanam	6	38	(639, 622)	|
-champuramayanam	6	38	(657, 622)	सद्यः
-champuramayanam	6	38	(716, 622)	परनिर्वृतये
-champuramayanam	6	38	(833, 622)	कान्तासं
-champuramayanam	6	41	(62, 665)	मिततयोपदेशयुजे
-champuramayanam	6	41	(256, 665)	॥
-champuramayanam	6	41	(274, 665)	'
-champuramayanam	6	41	(299, 664)	इत्याद्यलंकारवचनप्रामाण्यात
-champuramayanam	6	41	(586, 663)	,
-champuramayanam	6	40	(616, 663)	काव्यस्यानेकश्रेयः
-champuramayanam	6	41	(786, 662)	साधनतां
-champuramayanam	6	41	(878, 662)	'
-champuramayanam	6	41	(896, 662)	का
-champuramayanam	6	32	(62, 712)	व्यालापांच
-champuramayanam	6	32	(179, 712)	वर्जयेत्
-champuramayanam	6	32	(257, 712)	'
-champuramayanam	6	32	(274, 712)	इति
-champuramayanam	6	32	(326, 712)	निषेधत्यासत्काव्यविषयतां
-champuramayanam	6	32	(596, 712)	च
-champuramayanam	6	32	(628, 712)	पश्यन्
-champuramayanam	6	32	(698, 712)	,
-champuramayanam	6	32	(718, 712)	सकलकल्याणपरायणं
-champuramayanam	6	43	(62, 746)	श्रीरामायणं
-champuramayanam	6	43	(188, 746)	चम्पूप्रवन्धात्मना
-champuramayanam	6	43	(370, 746)	चिकीर्षुः
-champuramayanam	6	43	(453, 746)	,
-champuramayanam	6	43	(472, 746)	चिकीपितानन्तरायपरिसमाप्तिप्रचयगमनलक्ष
-champuramayanam	6	43	(63, 793)	णफलसाधनत्वात्
-champuramayanam	6	43	(241, 792)	'
-champuramayanam	6	43	(258, 792)	आशीर्नमस्किया
-champuramayanam	6	43	(423, 791)	वस्तुनिर्देशो
-champuramayanam	6	44	(552, 790)	वापि
-champuramayanam	6	42	(624, 790)	तन्मुखम्
-champuramayanam	6	43	(717, 790)	'
-champuramayanam	6	43	(747, 789)	इत्याचार्यदण्डिवा
-champuramayanam	6	45	(67, 832)	क्यादाशीराद्यन्यतमस्य
-champuramayanam	6	45	(309, 832)	प्रवन्धमुखलक्षणलाच्च
-champuramayanam	6	45	(530, 832)	तवादी
-champuramayanam	6	45	(611, 832)	लक्ष्मीशब्दपूर्वकमाशिषं
-champuramayanam	6	45	(841, 832)	प्रयुक्त
-champuramayanam	6	45	(908, 832)	–
-champuramayanam	6	51	(250, 880)	लक्ष्मी
-champuramayanam	6	50	(339, 879)	तनोतु
-champuramayanam	6	48	(425, 877)	नितरामितरानपेक्ष
-champuramayanam	6	49	(297, 933)	मङ्घ्रिद्वयं
-champuramayanam	6	47	(410, 932)	निगमशाखिशिखाप्रवालम्
-champuramayanam	6	49	(734, 929)	।
-champuramayanam	6	48	(248, 974)	हैरम्बमम्बुरुहडम्बरचौर्यनिघ्नं
-champuramayanam	6	51	(297, 1022)	विघ्नाद्रिभेदशतधारधुरंधरं
-champuramayanam	6	47	(618, 1026)	नः
-champuramayanam	6	47	(668, 1027)	॥
-champuramayanam	6	47	(709, 1027)	१
-champuramayanam	6	47	(745, 1027)	॥
-champuramayanam	6	44	(101, 1078)	लक्ष्मीमिति
-champuramayanam	6	44	(257, 1078)	|
-champuramayanam	6	44	(286, 1078)	आदी
-champuramayanam	6	44	(357, 1078)	लक्ष्मीशब्दप्रयोगाद्वर्णगणादिशुद्धेरभ्युच्छ्रयः
-champuramayanam	6	44	(792, 1078)	।
-champuramayanam	6	44	(810, 1078)	तदुक्तम्
-champuramayanam	6	41	(64, 1126)	'
-champuramayanam	6	40	(76, 1125)	देवतावाचकाः
-champuramayanam	6	41	(223, 1125)	शब्दा
-champuramayanam	6	41	(291, 1125)	ये
-champuramayanam	6	41	(321, 1124)	च
-champuramayanam	6	40	(353, 1124)	भद्रादिवाचकाः
-champuramayanam	6	41	(513, 1124)	।
-champuramayanam	6	41	(529, 1124)	ते
-champuramayanam	6	41	(561, 1123)	सर्वे
-champuramayanam	6	41	(607, 1123)	नैव
-champuramayanam	6	41	(649, 1123)	निन्द्याः
-champuramayanam	6	42	(731, 1122)	स्युलिंपितो
-champuramayanam	6	41	(857, 1122)	गणतो
-champuramayanam	6	39	(65, 1169)	ऽपि
-champuramayanam	6	38	(115, 1169)	वा
-champuramayanam	6	38	(155, 1169)	॥
-champuramayanam	6	38	(170, 1169)	”
-champuramayanam	6	38	(188, 1169)	इति
-champuramayanam	6	38	(243, 1169)	।
-champuramayanam	6	38	(260, 1169)	निगमा
-champuramayanam	6	38	(349, 1168)	वेदास्त
-champuramayanam	6	38	(429, 1168)	एव
-champuramayanam	6	38	(474, 1168)	शाखिनो
-champuramayanam	6	39	(578, 1167)	वृक्षाः
-champuramayanam	6	38	(647, 1167)	|
-champuramayanam	6	38	(666, 1167)	'
-champuramayanam	6	38	(674, 1167)	वृक्षो
-champuramayanam	6	38	(730, 1167)	महीरुहः
-champuramayanam	6	39	(825, 1166)	शाखी
-champuramayanam	6	38	(887, 1166)	'
-champuramayanam	6	38	(905, 1166)	इ
-champuramayanam	6	39	(65, 1212)	यमरः
-champuramayanam	6	38	(145, 1212)	।
-champuramayanam	6	37	(162, 1212)	श्रीह्यादिलादिनिः
-champuramayanam	6	38	(341, 1211)	।
-champuramayanam	6	38	(356, 1211)	तेषां
-champuramayanam	6	38	(412, 1211)	शिखा
-champuramayanam	6	39	(483, 1210)	उपनिषदः
-champuramayanam	6	38	(592, 1210)	।
-champuramayanam	6	38	(610, 1210)	ता
-champuramayanam	6	38	(647, 1210)	एव
-champuramayanam	6	38	(692, 1210)	शिखा
-champuramayanam	6	38	(760, 1209)	अग्राणीति
-champuramayanam	6	38	(873, 1209)	श्लिष्ट
-champuramayanam	6	39	(67, 1255)	रूपकम्
-champuramayanam	6	38	(152, 1255)	|
-champuramayanam	6	38	(169, 1255)	मौलयश्च
-champuramayanam	6	39	(265, 1254)	प्रतीयन्ते
-champuramayanam	6	38	(371, 1254)	।
-champuramayanam	6	38	(388, 1254)	तासां
-champuramayanam	6	38	(448, 1254)	प्रवालं
-champuramayanam	6	39	(517, 1253)	नवपलवम्
-champuramayanam	6	38	(631, 1253)	।
-champuramayanam	6	37	(646, 1253)	वेदान्तवेद्यमित्यर्थः
-champuramayanam	6	38	(846, 1252)	।
-champuramayanam	6	38	(862, 1252)	'
-champuramayanam	6	38	(870, 1252)	शिखा
-champuramayanam	6	43	(66, 1292)	ज्वालाकेकिमौल्योः
-champuramayanam	6	43	(260, 1292)	शिखा
-champuramayanam	6	43	(332, 1292)	शाखाप्रमौलिपु
-champuramayanam	6	43	(479, 1292)	'
-champuramayanam	6	43	(492, 1292)	इति
-champuramayanam	6	43	(538, 1292)	वैजयन्ती
-champuramayanam	6	43	(640, 1292)	।
-champuramayanam	6	43	(654, 1292)	'
-champuramayanam	6	43	(669, 1292)	प्रवाल
-champuramayanam	6	43	(750, 1292)	वाहकीदण्डे
-champuramayanam	6	43	(872, 1292)	विद्रुमे
-champuramayanam	6	43	(66, 1337)	नवपट्टवे
-champuramayanam	6	43	(150, 1337)	'
-champuramayanam	6	43	(168, 1337)	इति
-champuramayanam	6	43	(219, 1337)	शब्दार्णवे
-champuramayanam	6	43	(318, 1337)	।
-champuramayanam	6	43	(335, 1337)	अञ्जु
-champuramayanam	6	43	(429, 1337)	रोहतीलम्बुरुहं
-champuramayanam	6	43	(597, 1337)	पद्मं
-champuramayanam	6	43	(655, 1337)	तस्य
-champuramayanam	6	43	(723, 1337)	यो
-champuramayanam	6	43	(754, 1337)	उम्बरः
-champuramayanam	6	43	(829, 1337)	सौभाग्या
-champuramayanam	6	41	(67, 1383)	तिशयसंरम्भस्तस्य
-champuramayanam	6	41	(273, 1383)	चौर्येऽपहरणे
-champuramayanam	6	41	(413, 1383)	|
-champuramayanam	6	41	(430, 1383)	ब्राह्मणादिलात्व्यञ्
-champuramayanam	6	41	(626, 1383)	|
-champuramayanam	6	41	(641, 1383)	निम्नमायत्तम्
-champuramayanam	6	41	(780, 1383)	|
-champuramayanam	6	41	(813, 1383)	अम्बुरुहसौ
-champuramayanam	6	44	(68, 1423)	भाग्यापहारीत्यर्थः
-champuramayanam	6	44	(263, 1423)	।
-champuramayanam	6	44	(281, 1423)	‘
-champuramayanam	6	44	(299, 1423)	अधीनो
-champuramayanam	6	44	(375, 1423)	निम्न
-champuramayanam	6	44	(430, 1423)	आयत्तः
-champuramayanam	6	44	(510, 1423)	'
-champuramayanam	6	44	(529, 1423)	इत्यमरः
-champuramayanam	6	44	(623, 1423)	।
-champuramayanam	6	44	(641, 1423)	अत
-champuramayanam	6	44	(692, 1423)	एव
-champuramayanam	6	44	(749, 1423)	सादृदयपर्यवसाना
-champuramayanam	6	40	(69, 1470)	दुपमा
-champuramayanam	6	40	(142, 1470)	|
-champuramayanam	6	40	(160, 1470)	डम्बरेल
-champuramayanam	6	40	(278, 1470)	दम्यन्ते
-champuramayanam	6	40	(366, 1470)	भीरवोऽनेनेति
-champuramayanam	6	40	(520, 1470)	डम्बर
-champuramayanam	6	40	(586, 1470)	:
-champuramayanam	6	40	(606, 1470)	।
-champuramayanam	6	40	(625, 1470)	'
-champuramayanam	6	40	(637, 1470)	दमु
-champuramayanam	6	40	(680, 1470)	उपशमे
-champuramayanam	6	40	(754, 1470)	'
-champuramayanam	6	40	(774, 1470)	।
-champuramayanam	6	40	(794, 1470)	औणादिकला
-champuramayanam	6	47	(68, 1508)	द्वरप्रत्ययः
-champuramayanam	6	47	(172, 1508)	,
-champuramayanam	6	47	(188, 1508)	टपोदरादित्वाद्वर्णव्यलयथ
-champuramayanam	6	47	(460, 1508)	।
-champuramayanam	6	47	(484, 1508)	सुबोधिनीकारस्तु
-champuramayanam	6	47	(656, 1508)	–
-champuramayanam	6	47	(676, 1508)	'
-champuramayanam	6	47	(691, 1508)	डम्ब
-champuramayanam	6	47	(742, 1508)	विक्षेपे
-champuramayanam	6	47	(803, 1508)	'
-champuramayanam	6	47	(820, 1508)	इति
-champuramayanam	6	47	(868, 1508)	बान्तो
-champuramayanam	6	30	(108, 1572)	१.
-champuramayanam	6	30	(143, 1572)	'
-champuramayanam	6	30	(157, 1572)	भुतराम्
-champuramayanam	6	30	(229, 1572)	'
-champuramayanam	6	30	(250, 1572)	इति
-champuramayanam	6	30	(303, 1572)	पाट
-champuramayanam	6	30	(343, 1572)	:.
-champuramayanam	6	4	(944, 638)	4
+(377, 94)	24	Languages.ENGLISH	THE	
+(69, 161)	74	Languages.ENGLISH	CHAMPÛ	
+(358, 163)	72	Languages.SANSKRIT	-	['-']
+(374, 162)	74	Languages.ENGLISH	RÂMÂYANA	
+(784, 164)	72	Languages.SANSKRIT	.	.
+(403, 292)	18	Languages.ENGLISH	OF	
+(100, 354)	38	Languages.ENGLISH	KING	
+(246, 353)	37	Languages.ENGLISH	BHOJA	
+(445, 353)	37	Languages.SANSKRIT	(	(
+(462, 353)	37	Languages.ENGLISH	1-5	
+(550, 352)	37	Languages.ENGLISH	Kândas	
+(709, 352)	37	Languages.SANSKRIT	)	)
+(398, 440)	12	Languages.ENGLISH	AND	
+(29, 502)	43	Languages.ENGLISH	LAKSHMANA	
+(364, 504)	41	Languages.ENGLISH	SÛRI	
+(518, 505)	41	Languages.SANSKRIT	(	(
+(533, 505)	41	Languages.ENGLISH	6th	
+(625, 505)	42	Languages.ENGLISH	Kânda	
+(764, 506)	41	Languages.SANSKRIT	)	)
+(777, 506)	41	Languages.SANSKRIT	.	.
+(2, 591)	25	Languages.ENGLISH	WITH	
+(88, 591)	25	Languages.ENGLISH	THE	
+(156, 591)	25	Languages.ENGLISH	COMMENTARY	
+(366, 591)	25	Languages.ENGLISH	OF	
+(415, 591)	25	Languages.ENGLISH	RÂMACHANDRA	
+(648, 591)	25	Languages.ENGLISH	BUDHENDRA	
+(302, 769)	23	Languages.ENGLISH	EDITED	
+(400, 834)	13	Languages.ENGLISH	BY	
+(110, 887)	51	Languages.ENGLISH	KASHINATH	
+(355, 890)	51	Languages.ENGLISH	PÂNDURANG	
+(611, 894)	49	Languages.ENGLISH	PARAB	
+(735, 896)	47	Languages.SANSKRIT	.	.
+(147, 1101)	27	Languages.ENGLISH	PRINTED	
+(350, 1101)	27	Languages.ENGLISH	AND	
+(455, 1101)	27	Languages.ENGLISH	PUBLISHED	
+(400, 1166)	13	Languages.ENGLISH	BY	
+(213, 1223)	37	Languages.ENGLISH	TUKÂRÂM	
+(456, 1223)	37	Languages.ENGLISH	JÂVAJI	
+(188, 1297)	24	Languages.ENGLISH	OF	
+(235, 1297)	24	Languages.ENGLISH	JAVAJI	
+(338, 1297)	26	Languages.ENGLISH	DADAJI'S	
+(467, 1298)	24	Languages.SANSKRIT	"	"
+(480, 1298)	25	Languages.ENGLISH	NIRNAYA	
+(594, 1298)	24	Languages.SANSKRIT	-	['-']
+(602, 1298)	25	Languages.ENGLISH	SAGAR	
+(317, 1351)	36	Languages.ENGLISH	Bombay	
+(509, 1355)	32	Languages.SANSKRIT	.	.
+(374, 1448)	24	Languages.ENGLISH	1898	
+(450, 1450)	22	Languages.SANSKRIT	.	.
+(319, 1536)	31	Languages.ENGLISH	rice	
+(387, 1539)	28	Languages.ENGLISH	2	
+(420, 1539)	32	Languages.ENGLISH	Rupees	
+(518, 1543)	28	Languages.SANSKRIT	.	.
+(686, 1301)	8	Languages.SANSKRIT	"	"
+(691, 1301)	8	Languages.SANSKRIT	}	}
+(715, 1301)	21	Languages.ENGLISH	PRESS	
+(788, 1303)	18	Languages.SANSKRIT	.	.
+(304, 654)	45	Languages.SANSKRIT	(	(
+(325, 657)	67	Languages.ENGLISH	Registered	
+(478, 684)	57	Languages.ENGLISH	under	
+(576, 703)	49	Languages.ENGLISH	Act	
+(639, 714)	54	Languages.ENGLISH	XXV	
+(732, 731)	46	Languages.ENGLISH	of	
+(775, 738)	54	Languages.ENGLISH	1867.	
+(844, 751)	43	Languages.SANSKRIT	)	)
+(304, 769)	31	Languages.SANSKRIT	[	[
+(325, 772)	35	Languages.ENGLISH	All	
+(380, 781)	42	Languages.ENGLISH	rights	
+(471, 796)	47	Languages.ENGLISH	reserved	
+(590, 816)	34	Languages.ENGLISH	by	
+(632, 823)	35	Languages.ENGLISH	the	
+(684, 831)	50	Languages.ENGLISH	Publisher	
+(807, 853)	30	Languages.SANSKRIT	.	.
+(820, 855)	31	Languages.SANSKRIT	]	]
+(350, 96)	37	Languages.SANSKRIT	॥	['॥']
+(386, 96)	38	Languages.SANSKRIT	श्रीः	['श्', 'र्', 'ई', 'ः']
+(462, 98)	37	Languages.SANSKRIT	॥	['॥']
+(98, 181)	58	Languages.SANSKRIT	श्रीभोजराजविरचितं	['श्', 'र्', 'ई', 'भ्', 'ओ', 'ज्', 'अ', 'र्', 'आ', 'ज्', 'अ', 'व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'ं']
+(477, 181)	58	Languages.SANSKRIT	(	(
+(496, 181)	58	Languages.SANSKRIT	पञ्चमकाण्ड	['प्', 'अ', 'ञ्', 'च्', 'अ', 'म्', 'अ', 'क्', 'आ', 'ण्', 'ड्', 'अ']
+(623, 181)	58	Languages.SANSKRIT	पर्यन्त	['प्', 'अ', 'र्', 'य्', 'अ', 'न्', 'त्', 'अ']
+(130, 263)	50	Languages.SANSKRIT	लक्ष्मणसूरिविरचितं	['ल्', 'अ', 'क्', 'ष्', 'म्', 'अ', 'ण्', 'अ', 'स्', 'ऊ', 'र्', 'इ', 'व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'ं']
+(490, 266)	47	Languages.SANSKRIT	(	(
+(502, 266)	48	Languages.SANSKRIT	षष्ठकाण्डमात्रम्	['ष्', 'अ', 'ष्', 'ठ्', 'अ', 'क्', 'आ', 'ण्', 'ड्', 'अ', 'म्', 'आ', 'त्', 'र्', 'अ', 'म्']
+(684, 267)	47	Languages.SANSKRIT	)	)
+(172, 390)	73	Languages.SANSKRIT	चम्पूरामायणम्	['च्', 'अ', 'म्', 'प्', 'ऊ', 'र्', 'आ', 'म्', 'आ', 'य्', 'अ', 'ण्', 'अ', 'म्']
+(643, 382)	80	Languages.SANSKRIT	।	['।']
+(70, 524)	49	Languages.SANSKRIT	रामचन्द्रबुधेन्द्रविरचितया	['र्', 'आ', 'म्', 'अ', 'च्', 'अ', 'न्', 'द्', 'र्', 'अ', 'ब्', 'उ', 'ध्', 'ए', 'न्', 'द्', 'र्', 'अ', 'व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'य्', 'आ']
+(474, 524)	49	Languages.SANSKRIT	व्याख्यया	['व्', 'य्', 'आ', 'ख्', 'य्', 'अ', 'य्', 'आ']
+(636, 524)	49	Languages.SANSKRIT	समेतम्	['स्', 'अ', 'म्', 'ए', 'त्', 'अ', 'म्']
+(756, 524)	49	Languages.SANSKRIT	।	['।']
+(82, 992)	8	Languages.ENGLISH	F	
+(162, 723)	69	Languages.SANSKRIT	काशीनाथ	['क्', 'आ', 'श्', 'ई', 'न्', 'आ', 'थ्', 'अ']
+(388, 728)	69	Languages.SANSKRIT	पाण्डुरङ्ग	['प्', 'आ', 'ण्', 'ड्', 'उ', 'र्', 'अ', 'ङ्', 'ग्', 'अ']
+(580, 732)	67	Languages.SANSKRIT	परब	['प्', 'अ', 'र्', 'अ', 'ब्', 'अ']
+(310, 841)	41	Languages.SANSKRIT	इत्यनेन	['इ', 'त्', 'य्', 'अ', 'न्', 'ए', 'न्', 'अ']
+(405, 842)	41	Languages.SANSKRIT	संस्कृतम्	['स्', 'अ', 'ं', 'स्', 'क्', 'ऋ', 'त्', 'अ', 'म्']
+(517, 844)	39	Languages.SANSKRIT	।	['।']
+(394, 1047)	24	Languages.SANSKRIT	तच्च	['त्', 'अ', 'च्', 'च्', 'अ']
+(294, 1112)	38	Languages.SANSKRIT	शाके	['श्', 'आ', 'क्', 'ए']
+(373, 1111)	37	Languages.SANSKRIT	१८२०	['१', '८', '२', '०']
+(466, 1111)	36	Languages.SANSKRIT	चत्सरे	['च्', 'अ', 'त्', 'स्', 'अ', 'र्', 'ए']
+(346, 1195)	45	Languages.SANSKRIT	मुम्बय्यां	['म्', 'उ', 'म्', 'ब्', 'अ', 'य्', 'य्', 'आ', 'ं']
+(73, 1259)	52	Languages.SANSKRIT	निर्णयसांगराख्ययन्त्रालये	['न्', 'इ', 'र्', 'ण्', 'अ', 'य्', 'अ', 'स्', 'आ', 'ं', 'ग्', 'अ', 'र्', 'आ', 'ख्', 'य्', 'अ', 'य्', 'अ', 'न्', 'त्', 'र्', 'आ', 'ल्', 'अ', 'य्', 'ए']
+(396, 1261)	51	Languages.SANSKRIT	तदधिपतिना	['त्', 'अ', 'द्', 'अ', 'ध्', 'इ', 'प्', 'अ', 'त्', 'इ', 'न्', 'आ']
+(562, 1262)	50	Languages.SANSKRIT	मुद्राक्षरैरङ्कयित्वा	['म्', 'उ', 'द्', 'र्', 'आ', 'क्', 'ष्', 'अ', 'र्', 'ऐ', 'र्', 'अ', 'ङ्', 'क्', 'अ', 'य्', 'इ', 'त्', 'व्', 'आ']
+(311, 1330)	43	Languages.SANSKRIT	प्राकाश्यं	['प्', 'र्', 'आ', 'क्', 'आ', 'श्', 'य्', 'अ', 'ं']
+(429, 1332)	41	Languages.SANSKRIT	नीतम्	['न्', 'ई', 'त्', 'अ', 'म्']
+(526, 1334)	40	Languages.SANSKRIT	।	['।']
+(321, 1483)	34	Languages.SANSKRIT	मूल्यं	['म्', 'ऊ', 'ल्', 'य्', 'अ', 'ं']
+(387, 1483)	34	Languages.SANSKRIT	रूप्यकद्वयम्	['र्', 'ऊ', 'प्', 'य्', 'अ', 'क्', 'अ', 'द्', 'व्', 'अ', 'य्', 'अ', 'म्']
+(528, 1483)	34	Languages.SANSKRIT	।	['।']
+(374, 92)	47	Languages.SANSKRIT	॥	['॥']
+(411, 91)	46	Languages.SANSKRIT	श्रीः	['श्', 'र्', 'ई', 'ः']
+(495, 90)	47	Languages.SANSKRIT	॥	['॥']
+(230, 169)	65	Languages.SANSKRIT	श्रीभोजराजविरचितं	['श्', 'र्', 'ई', 'भ्', 'ओ', 'ज्', 'अ', 'र्', 'आ', 'ज्', 'अ', 'व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'ं']
+(196, 281)	92	Languages.SANSKRIT	चम्पूरामायणम्	['च्', 'अ', 'म्', 'प्', 'ऊ', 'र्', 'आ', 'म्', 'आ', 'य्', 'अ', 'ण्', 'अ', 'म्']
+(673, 277)	95	Languages.SANSKRIT	।	['।']
+(46, 386)	67	Languages.SANSKRIT	श्रीरामचन्द्रबुधेन्द्रविरचितया	['श्', 'र्', 'ई', 'र्', 'आ', 'म्', 'अ', 'च्', 'अ', 'न्', 'द्', 'र्', 'अ', 'ब्', 'उ', 'ध्', 'ए', 'न्', 'द्', 'र्', 'अ', 'व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'य्', 'आ']
+(518, 386)	67	Languages.SANSKRIT	व्याख्यया	['व्', 'य्', 'आ', 'ख्', 'य्', 'अ', 'य्', 'आ']
+(697, 386)	67	Languages.SANSKRIT	समेतम्	['स्', 'अ', 'म्', 'ए', 'त्', 'अ', 'म्']
+(826, 386)	67	Languages.SANSKRIT	।	['।']
+(318, 525)	41	Languages.SANSKRIT	बालकाण्डम्	['ब्', 'आ', 'ल्', 'अ', 'क्', 'आ', 'ण्', 'ड्', 'अ', 'म्']
+(547, 527)	39	Languages.SANSKRIT	|	|
+(208, 577)	34	Languages.SANSKRIT	गुरवे	['ग्', 'उ', 'र्', 'अ', 'व्', 'ए']
+(272, 577)	35	Languages.SANSKRIT	सर्वलोकानां	['स्', 'अ', 'र्', 'व्', 'अ', 'ल्', 'ओ', 'क्', 'आ', 'न्', 'आ', 'ं']
+(406, 578)	34	Languages.SANSKRIT	भिषजे	['भ्', 'इ', 'ष्', 'अ', 'ज्', 'ए']
+(492, 578)	36	Languages.SANSKRIT	भवरोगिणाम्	['भ्', 'अ', 'व्', 'अ', 'र्', 'ओ', 'ग्', 'इ', 'ण्', 'आ', 'म्']
+(644, 579)	34	Languages.SANSKRIT	।	['।']
+(209, 616)	43	Languages.SANSKRIT	निधये	['न्', 'इ', 'ध्', 'अ', 'य्', 'ए']
+(289, 617)	44	Languages.SANSKRIT	सर्वविद्यानां	['स्', 'अ', 'र्', 'व्', 'अ', 'व्', 'इ', 'द्', 'य्', 'आ', 'न्', 'आ', 'ं']
+(419, 619)	44	Languages.SANSKRIT	दक्षिणामूर्तये	['द्', 'अ', 'क्', 'ष्', 'इ', 'ण्', 'आ', 'म्', 'ऊ', 'र्', 'त्', 'अ', 'य्', 'ए']
+(569, 622)	42	Languages.SANSKRIT	नमः	['न्', 'अ', 'म्', 'अ', 'ः']
+(632, 623)	41	Languages.SANSKRIT	॥	['॥']
+(211, 668)	33	Languages.SANSKRIT	शिवानन्दाश्रयगुरोश्चरणस्मरणं	['श्', 'इ', 'व्', 'आ', 'न्', 'अ', 'न्', 'द्', 'आ', 'श्', 'र्', 'अ', 'य्', 'अ', 'ग्', 'उ', 'र्', 'ओ', 'श्', 'च्', 'अ', 'र्', 'अ', 'ण्', 'अ', 'स्', 'म्', 'अ', 'र्', 'अ', 'ण्', 'अ', 'ं']
+(541, 668)	33	Languages.SANSKRIT	मम	['म्', 'अ', 'म्', 'अ']
+(595, 668)	33	Languages.SANSKRIT	।	['।']
+(211, 710)	37	Languages.SANSKRIT	उत्साहशक्तिजं	['उ', 'त्', 'स्', 'आ', 'ह्', 'अ', 'श्', 'अ', 'क्', 'त्', 'इ', 'ज्', 'अ', 'ं']
+(382, 711)	35	Languages.SANSKRIT	तेजस्तनोतु	['त्', 'ए', 'ज्', 'अ', 'स्', 'त्', 'अ', 'न्', 'ओ', 'त्', 'उ']
+(508, 712)	35	Languages.SANSKRIT	मुखपङ्कजे	['म्', 'उ', 'ख्', 'अ', 'प्', 'अ', 'ङ्', 'क्', 'अ', 'ज्', 'ए']
+(626, 712)	35	Languages.SANSKRIT	॥	['॥']
+(210, 753)	33	Languages.SANSKRIT	विघ्नेश	['व्', 'इ', 'घ्', 'न्', 'ए', 'श्', 'अ']
+(291, 752)	36	Languages.SANSKRIT	विधिमार्तण्डचन्द्रेन्द्रोपेन्द्रवन्दित	['व्', 'इ', 'ध्', 'इ', 'म्', 'आ', 'र्', 'त्', 'अ', 'ण्', 'ड्', 'अ', 'च्', 'अ', 'न्', 'द्', 'र्', 'ए', 'न्', 'द्', 'र्', 'ओ', 'प्', 'ए', 'न्', 'द्', 'र्', 'अ', 'व्', 'अ', 'न्', 'द्', 'इ', 'त्', 'अ']
+(641, 755)	33	Languages.SANSKRIT	।	['।']
+(209, 796)	36	Languages.SANSKRIT	नमो	['न्', 'अ', 'म्', 'ओ']
+(267, 796)	36	Languages.SANSKRIT	गणपते	['ग्', 'अ', 'ण्', 'अ', 'प्', 'अ', 'त्', 'ए']
+(353, 796)	36	Languages.SANSKRIT	तुभ्यं	['त्', 'उ', 'भ्', 'य्', 'अ', 'ं']
+(420, 797)	36	Languages.SANSKRIT	ब्रह्मणां	['ब्', 'र्', 'अ', 'ह्', 'म्', 'अ', 'ण्', 'आ', 'ं']
+(501, 797)	38	Languages.SANSKRIT	ब्रह्मणस्पते	['ब्', 'र्', 'अ', 'ह्', 'म्', 'अ', 'ण्', 'अ', 'स्', 'प्', 'अ', 'त्', 'ए']
+(626, 798)	36	Languages.SANSKRIT	॥	['॥']
+(172, 836)	39	Languages.SANSKRIT	सीताकल्पलतान्वितं	['स्', 'ई', 'त्', 'आ', 'क्', 'अ', 'ल्', 'प्', 'अ', 'ल्', 'अ', 'त्', 'आ', 'न्', 'व्', 'इ', 'त्', 'अ', 'ं']
+(395, 836)	39	Languages.SANSKRIT	दशरथाम्भोराशिजं	['द्', 'अ', 'श्', 'अ', 'र्', 'अ', 'थ्', 'आ', 'म्', 'भ्', 'ओ', 'र्', 'आ', 'श्', 'इ', 'ज्', 'अ', 'ं']
+(610, 836)	39	Languages.SANSKRIT	सोदरो	['स्', 'ओ', 'द्', 'अ', 'र्', 'ओ']
+(210, 884)	37	Languages.SANSKRIT	दारस्कन्धमभीष्टदं	['द्', 'आ', 'र्', 'अ', 'स्', 'क्', 'अ', 'न्', 'ध्', 'अ', 'म्', 'अ', 'भ्', 'ई', 'ष्', 'ट्', 'अ', 'द्', 'अ', 'ं']
+(414, 884)	37	Languages.SANSKRIT	सुमनसां	['स्', 'उ', 'म्', 'अ', 'न्', 'अ', 'स्', 'आ', 'ं']
+(512, 884)	37	Languages.SANSKRIT	श्रेणीभिरामोदितम्	['श्', 'र्', 'ए', 'ण्', 'ई', 'भ्', 'इ', 'र्', 'आ', 'म्', 'ओ', 'द्', 'इ', 'त्', 'अ', 'म्']
+(722, 884)	37	Languages.SANSKRIT	।	['।']
+(174, 929)	34	Languages.SANSKRIT	नित्यं	['न्', 'इ', 'त्', 'य्', 'अ', 'ं']
+(237, 929)	33	Languages.SANSKRIT	स्वाधितनन्दनं	['स्', 'व्', 'आ', 'ध्', 'इ', 'त्', 'अ', 'न्', 'अ', 'न्', 'द्', 'अ', 'न्', 'अ', 'ं']
+(400, 927)	32	Languages.SANSKRIT	किसलयश्रीपञ्चशाखोज्वलं	['क्', 'इ', 'स्', 'अ', 'ल्', 'अ', 'य्', 'अ', 'श्', 'र्', 'ई', 'प्', 'अ', 'ञ्', 'च्', 'अ', 'श्', 'आ', 'ख्', 'ओ', 'ज्', 'व्', 'अ', 'ल्', 'अ', 'ं']
+(210, 968)	41	Languages.SANSKRIT	श्रीरामामरभूरुहं	['श्', 'र्', 'ई', 'र्', 'आ', 'म्', 'आ', 'म्', 'अ', 'र्', 'अ', 'भ्', 'ऊ', 'र्', 'उ', 'ह्', 'अ', 'ं']
+(393, 967)	42	Languages.SANSKRIT	हृदि	['ह्', 'ऋ', 'द्', 'इ']
+(449, 967)	41	Languages.SANSKRIT	सदा	['स्', 'अ', 'द्', 'आ']
+(505, 966)	41	Languages.SANSKRIT	सेवेऽर्थसंसिद्धये	['स्', 'ए', 'व्', 'ए', 'ऽ', 'र्', 'थ्', 'अ', 'स्', 'अ', 'ं', 'स्', 'इ', 'द्', 'ध्', 'अ', 'य्', 'ए']
+(683, 966)	41	Languages.SANSKRIT	॥	['॥']
+(210, 1019)	33	Languages.SANSKRIT	सुधाकरसुधाकराच्छरदभास्वराभास्वरा	['स्', 'उ', 'ध्', 'आ', 'क्', 'अ', 'र्', 'अ', 'स्', 'उ', 'ध्', 'आ', 'क्', 'अ', 'र्', 'आ', 'च्', 'छ्', 'अ', 'र्', 'अ', 'द्', 'अ', 'भ्', 'आ', 'स्', 'व्', 'अ', 'र्', 'आ', 'भ्', 'आ', 'स्', 'व्', 'अ', 'र्', 'आ']
+(239, 1056)	36	Languages.SANSKRIT	'	'
+(245, 1055)	42	Languages.SANSKRIT	श्चितक्रमविपश्चिकाक्कणनसादरा	['श्', 'च्', 'इ', 'त्', 'अ', 'क्', 'र्', 'अ', 'म्', 'अ', 'व्', 'इ', 'प्', 'अ', 'श्', 'च्', 'इ', 'क्', 'आ', 'क्', 'क्', 'अ', 'ण्', 'अ', 'न्', 'अ', 'स्', 'आ', 'द्', 'अ', 'र्', 'आ']
+(578, 1060)	38	Languages.SANSKRIT	सादरा	['स्', 'आ', 'द्', 'अ', 'र्', 'आ']
+(666, 1062)	36	Languages.SANSKRIT	|	|
+(212, 1101)	38	Languages.SANSKRIT	विरिश्चिनवमोहनागमविशारदा	['व्', 'इ', 'र्', 'इ', 'श्', 'च्', 'इ', 'न्', 'अ', 'व्', 'अ', 'म्', 'ओ', 'ह्', 'अ', 'न्', 'आ', 'ग्', 'अ', 'म्', 'अ', 'व्', 'इ', 'श्', 'आ', 'र्', 'अ', 'द्', 'आ']
+(544, 1104)	36	Languages.SANSKRIT	शारदा	['श्', 'आ', 'र्', 'अ', 'द्', 'आ']
+(244, 1146)	37	Languages.SANSKRIT	मदीयरसनाङ्गणे	['म्', 'अ', 'द्', 'ई', 'य्', 'अ', 'र्', 'अ', 'स्', 'अ', 'न्', 'आ', 'ङ्', 'ग्', 'अ', 'ण्', 'ए']
+(426, 1146)	37	Languages.SANSKRIT	नटतु	['न्', 'अ', 'ट्', 'अ', 'त्', 'उ']
+(492, 1146)	37	Languages.SANSKRIT	सर्वदा	['स्', 'अ', 'र्', 'व्', 'अ', 'द्', 'आ']
+(568, 1146)	37	Languages.SANSKRIT	सर्वदा	['स्', 'अ', 'र्', 'व्', 'अ', 'द्', 'आ']
+(648, 1146)	37	Languages.SANSKRIT	||	||
+(135, 1188)	42	Languages.SANSKRIT	यत्पादाम्भोजरेणुं	['य्', 'अ', 'त्', 'प्', 'आ', 'द्', 'आ', 'म्', 'भ्', 'ओ', 'ज्', 'अ', 'र्', 'ए', 'ण्', 'उ', 'ं']
+(328, 1189)	42	Languages.SANSKRIT	विबुधकविवराः	['व्', 'इ', 'ब्', 'उ', 'ध्', 'अ', 'क्', 'अ', 'व्', 'इ', 'व्', 'अ', 'र्', 'आ', 'ः']
+(502, 1190)	40	Languages.SANSKRIT	प्राप्य	['प्', 'र्', 'आ', 'प्', 'य्', 'अ']
+(577, 1190)	40	Languages.SANSKRIT	सिद्धाञ्जनं	['स्', 'इ', 'द्', 'ध्', 'आ', 'ञ्', 'ज्', 'अ', 'न्', 'अ', 'ं']
+(686, 1191)	40	Languages.SANSKRIT	वा	['व्', 'आ']
+(174, 1230)	43	Languages.SANSKRIT	प्रज्ञादृष्टेः	['प्', 'र्', 'अ', 'ज्', 'ञ्', 'आ', 'द्', 'ऋ', 'ष्', 'ट्', 'ए', 'ः']
+(276, 1230)	43	Languages.SANSKRIT	प्रमीलां	['प्', 'र्', 'अ', 'म्', 'ई', 'ल्', 'आ', 'ं']
+(363, 1230)	43	Languages.SANSKRIT	पटुतरतमसा	['प्', 'अ', 'ट्', 'उ', 'त्', 'अ', 'र्', 'अ', 'त्', 'अ', 'म्', 'अ', 'स्', 'आ']
+(510, 1230)	43	Languages.SANSKRIT	प्राप्तवत्या	['प्', 'र्', 'आ', 'प्', 'त्', 'अ', 'व्', 'अ', 'त्', 'य्', 'आ']
+(623, 1230)	43	Languages.SANSKRIT	निजायाः	['न्', 'इ', 'ज्', 'आ', 'य्', 'आ', 'ः']
+(735, 1230)	43	Languages.SANSKRIT	।	['।']
+(136, 1272)	43	Languages.SANSKRIT	आसाद्योन्मेषमारान्निधिमिव	['आ', 'स्', 'आ', 'द्', 'य्', 'ओ', 'न्', 'म्', 'ए', 'ष्', 'अ', 'म्', 'आ', 'र्', 'आ', 'न्', 'न्', 'इ', 'ध्', 'इ', 'म्', 'इ', 'व्', 'अ']
+(434, 1272)	43	Languages.SANSKRIT	कवितां	['क्', 'अ', 'व्', 'इ', 'त्', 'आ', 'ं']
+(522, 1272)	43	Languages.SANSKRIT	प्रापुरुद्यद्भुणार्थी	['प्', 'र्', 'आ', 'प्', 'उ', 'र्', 'उ', 'द्', 'य्', 'अ', 'द्', 'भ्', 'उ', 'ण्', 'आ', 'र्', 'थ्', 'ई']
+(175, 1323)	38	Languages.SANSKRIT	निष्प्रत्यूहं	['न्', 'इ', 'ष्', 'प्', 'र्', 'अ', 'त्', 'य्', 'ऊ', 'ह्', 'अ', 'ं']
+(286, 1322)	38	Languages.SANSKRIT	मुदास्मान्स	['म्', 'उ', 'द्', 'आ', 'स्', 'म्', 'आ', 'न्', 'स्', 'अ']
+(416, 1321)	38	Languages.SANSKRIT	सुरवरनुतः	['स्', 'उ', 'र्', 'अ', 'व्', 'अ', 'र्', 'अ', 'न्', 'उ', 'त्', 'अ', 'ः']
+(544, 1320)	38	Languages.SANSKRIT	पातु	['प्', 'आ', 'त्', 'उ']
+(599, 1320)	37	Languages.SANSKRIT	हेरम्बदेवः	['ह्', 'ए', 'र्', 'अ', 'म्', 'ब्', 'अ', 'द्', 'ए', 'व्', 'अ', 'ः']
+(723, 1319)	38	Languages.SANSKRIT	॥	['॥']
+(136, 1364)	42	Languages.SANSKRIT	श्रीमांस्त्रैलिङ्गदेशे	['श्', 'र्', 'ई', 'म्', 'आ', 'ं', 'स्', 'त्', 'र्', 'ऐ', 'ल्', 'इ', 'ङ्', 'ग्', 'अ', 'द्', 'ए', 'श्', 'ए']
+(316, 1364)	42	Languages.SANSKRIT	स	['स्', 'अ']
+(349, 1364)	42	Languages.SANSKRIT	जयति	['ज्', 'अ', 'य्', 'अ', 'त्', 'इ']
+(432, 1364)	42	Languages.SANSKRIT	विबुधश्रेणिकोटीरकोटी	['व्', 'इ', 'ब्', 'उ', 'ध्', 'अ', 'श्', 'र्', 'ए', 'ण्', 'इ', 'क्', 'ओ', 'ट्', 'ई', 'र्', 'अ', 'क्', 'ओ', 'ट्', 'ई']
+(174, 1408)	39	Languages.SANSKRIT	कोटीमाणिक्यभूतागणितगुणगणोऽखण्डपाण्डित्यशौण्ड	['क्', 'ओ', 'ट्', 'ई', 'म्', 'आ', 'ण्', 'इ', 'क्', 'य्', 'अ', 'भ्', 'ऊ', 'त्', 'आ', 'ग्', 'अ', 'ण्', 'इ', 'त्', 'अ', 'ग्', 'उ', 'ण्', 'अ', 'ग्', 'अ', 'ण्', 'ओ', 'ऽ', 'ख्', 'अ', 'ण्', 'ड्', 'अ', 'प्', 'आ', 'ण्', 'ड्', 'इ', 'त्', 'य्', 'अ', 'श्', 'औ', 'ण्', 'ड्', 'अ']
+(741, 1408)	39	Languages.SANSKRIT	:	:
+(766, 1408)	39	Languages.SANSKRIT	।	['।']
+(136, 1448)	45	Languages.SANSKRIT	धीरः	['ध्', 'ई', 'र्', 'अ', 'ः']
+(202, 1448)	45	Languages.SANSKRIT	शाण्डिल्यगोत्रः	['श्', 'आ', 'ण्', 'ड्', 'इ', 'ल्', 'य्', 'अ', 'ग्', 'ओ', 'त्', 'र्', 'अ', 'ः']
+(380, 1448)	45	Languages.SANSKRIT	सकलकविकुलाहादिसूक्तिप्रवीणो	['स्', 'अ', 'क्', 'अ', 'ल्', 'अ', 'क्', 'अ', 'व्', 'इ', 'क्', 'उ', 'ल्', 'आ', 'ह्', 'आ', 'द्', 'इ', 'स्', 'ऊ', 'क्', 'त्', 'इ', 'प्', 'र्', 'अ', 'व्', 'ई', 'ण्', 'ओ']
+(174, 1493)	43	Languages.SANSKRIT	वीणोदाहार्यविद्याविवरणनिपुणो	['व्', 'ई', 'ण्', 'ओ', 'द्', 'आ', 'ह्', 'आ', 'र्', 'य्', 'अ', 'व्', 'इ', 'द्', 'य्', 'आ', 'व्', 'इ', 'व्', 'अ', 'र्', 'अ', 'ण्', 'अ', 'न्', 'इ', 'प्', 'उ', 'ण्', 'ओ']
+(532, 1495)	41	Languages.SANSKRIT	रामचन्द्रो	['र्', 'आ', 'म्', 'अ', 'च्', 'अ', 'न्', 'द्', 'र्', 'ओ']
+(634, 1496)	41	Languages.SANSKRIT	बुधेन्द्रः	['ब्', 'उ', 'ध्', 'ए', 'न्', 'द्', 'र्', 'अ', 'ः']
+(734, 1496)	41	Languages.SANSKRIT	॥	['॥']
+(376, 82)	31	Languages.SANSKRIT	चम्पूरामायणम्	['च्', 'अ', 'म्', 'प्', 'ऊ', 'र्', 'आ', 'म्', 'आ', 'य्', 'अ', 'ण्', 'अ', 'म्']
+(590, 82)	31	Languages.SANSKRIT	|	|
+(236, 154)	38	Languages.SANSKRIT	नित्यं	['न्', 'इ', 'त्', 'य्', 'अ', 'ं']
+(297, 153)	37	Languages.SANSKRIT	संभ्रमजृम्भिता	['स्', 'अ', 'ं', 'भ्', 'र्', 'अ', 'म्', 'अ', 'ज्', 'ऋ', 'म्', 'भ्', 'इ', 'त्', 'आ']
+(453, 151)	37	Languages.SANSKRIT	नति	['न्', 'अ', 'त्', 'इ']
+(525, 150)	37	Languages.SANSKRIT	या	['य्', 'आ']
+(639, 148)	38	Languages.SANSKRIT	भारती	['भ्', 'आ', 'र्', 'अ', 'त्', 'ई']
+(270, 192)	40	Languages.SANSKRIT	जायन्ते	['ज्', 'आ', 'य्', 'अ', 'न्', 'त्', 'ए']
+(359, 191)	42	Languages.SANSKRIT	कविपुंगवास्तनुभृतो	['क्', 'अ', 'व्', 'इ', 'प्', 'उ', 'ं', 'ग्', 'अ', 'व्', 'आ', 'स्', 'त्', 'अ', 'न्', 'उ', 'भ्', 'ऋ', 'त्', 'ओ']
+(561, 192)	42	Languages.SANSKRIT	यफनिर्वर्णनात्	['य्', 'अ', 'फ्', 'अ', 'न्', 'इ', 'र्', 'व्', 'अ', 'र्', 'ण्', 'अ', 'न्', 'आ', 'त्']
+(736, 193)	40	Languages.SANSKRIT	।	['।']
+(238, 239)	36	Languages.SANSKRIT	भोजक्षोणिभुजामुना	['भ्', 'ओ', 'ज्', 'अ', 'क्', 'ष्', 'ओ', 'ण्', 'इ', 'भ्', 'उ', 'ज्', 'आ', 'म्', 'उ', 'न्', 'आ']
+(452, 239)	36	Languages.SANSKRIT	विरचितश्चम्पूप्रवन्धोऽधुना	['व्', 'इ', 'र्', 'अ', 'च्', 'इ', 'त्', 'अ', 'श्', 'च्', 'अ', 'म्', 'प्', 'ऊ', 'प्', 'र्', 'अ', 'व्', 'अ', 'न्', 'ध्', 'ओ', 'ऽ', 'ध्', 'उ', 'न्', 'आ']
+(272, 280)	39	Languages.SANSKRIT	व्याख्यां	['व्', 'य्', 'आ', 'ख्', 'य्', 'आ', 'ं']
+(362, 280)	38	Languages.SANSKRIT	तस्य	['त्', 'अ', 'स्', 'य्', 'अ']
+(416, 280)	39	Languages.SANSKRIT	करोमि	['क्', 'अ', 'र्', 'ओ', 'म्', 'इ']
+(496, 281)	39	Languages.SANSKRIT	मञ्जुलतरां	['म्', 'अ', 'ञ्', 'ज्', 'उ', 'ल्', 'अ', 'त्', 'अ', 'र्', 'आ', 'ं']
+(605, 281)	40	Languages.SANSKRIT	साहित्यमजूषिकाम्	['स्', 'आ', 'ह्', 'इ', 'त्', 'य्', 'अ', 'म्', 'अ', 'ज्', 'ऊ', 'ष्', 'इ', 'क्', 'आ', 'म्']
+(800, 283)	38	Languages.SANSKRIT	॥	['॥']
+(236, 320)	41	Languages.SANSKRIT	व्याकुर्वन्ति	['व्', 'य्', 'आ', 'क्', 'उ', 'र्', 'व्', 'अ', 'न्', 'त्', 'इ']
+(356, 320)	42	Languages.SANSKRIT	निवद्धगौरवभयान्नैव	['न्', 'इ', 'व्', 'अ', 'द्', 'ध्', 'अ', 'ग्', 'औ', 'र्', 'अ', 'व्', 'अ', 'भ्', 'अ', 'य्', 'आ', 'न्', 'न्', 'ऐ', 'व्', 'अ']
+(566, 321)	41	Languages.SANSKRIT	स्फुटं	['स्', 'फ्', 'उ', 'ट्', 'अ', 'ं']
+(628, 322)	41	Languages.SANSKRIT	युक्तिभि	['य्', 'उ', 'क्', 'त्', 'इ', 'भ्', 'इ']
+(273, 365)	38	Languages.SANSKRIT	र्य	['र्', 'य्', 'अ']
+(302, 364)	41	Languages.SANSKRIT	तेऽध्येतृजनप्रतारणपराः	['त्', 'ए', 'ऽ', 'ध्', 'य्', 'ए', 'त्', 'ऋ', 'ज्', 'अ', 'न्', 'अ', 'प्', 'र्', 'अ', 'त्', 'आ', 'र्', 'अ', 'ण्', 'अ', 'प्', 'अ', 'र्', 'आ', 'ः']
+(558, 367)	38	Languages.SANSKRIT	का	['क्', 'आ']
+(597, 367)	39	Languages.SANSKRIT	नैपुणी	['न्', 'ऐ', 'प्', 'उ', 'ण्', 'ई']
+(669, 368)	38	Languages.SANSKRIT	वा	['व्', 'आ']
+(706, 368)	38	Languages.SANSKRIT	ततः	['त्', 'अ', 'त्', 'अ', 'ः']
+(765, 369)	38	Languages.SANSKRIT	।	['।']
+(237, 408)	36	Languages.SANSKRIT	वैखर्या	['व्', 'ऐ', 'ख्', 'अ', 'र्', 'य्', 'आ']
+(313, 409)	36	Languages.SANSKRIT	वचसां	['व्', 'अ', 'च्', 'अ', 'स्', 'आ', 'ं']
+(388, 410)	36	Languages.SANSKRIT	कवीशहृदयं	['क्', 'अ', 'व्', 'ई', 'श्', 'अ', 'ह्', 'ऋ', 'द्', 'अ', 'य्', 'अ', 'ं']
+(515, 412)	36	Languages.SANSKRIT	प्रख्यापयन्नन्वय-	['प्', 'र्', 'अ', 'ख्', 'य्', 'आ', 'प्', 'अ', 'य्', 'अ', 'न्', 'न्', 'अ', 'न्', 'व्', 'अ', 'य्', 'अ', '-']
+(686, 414)	34	Languages.SANSKRIT	.	.
+(274, 451)	38	Languages.SANSKRIT	द्वारवाहमिहाखिलं	['द्', 'व्', 'आ', 'र्', 'अ', 'व्', 'आ', 'ह्', 'अ', 'म्', 'इ', 'ह्', 'आ', 'ख्', 'इ', 'ल्', 'अ', 'ं']
+(463, 452)	39	Languages.SANSKRIT	प्रविष्वृणोम्युक्तिमजोजृम्भितम्	['प्', 'र्', 'अ', 'व्', 'इ', 'ष्', 'व्', 'ऋ', 'ण्', 'ओ', 'म्', 'य्', 'उ', 'क्', 'त्', 'इ', 'म्', 'अ', 'ज्', 'ओ', 'ज्', 'ऋ', 'म्', 'भ्', 'इ', 'त्', 'अ', 'म्']
+(770, 455)	36	Languages.SANSKRIT	॥	['॥']
+(96, 493)	43	Languages.SANSKRIT	अद्य	['अ', 'द्', 'य्', 'अ']
+(160, 493)	43	Languages.SANSKRIT	खलु	['ख्', 'अ', 'ल्', 'उ']
+(223, 493)	43	Languages.SANSKRIT	तत्रभवान्विचित्रसरसकविताकल्पलतामञ्जर्यामोदिताशेषविबुधसमाजो	['त्', 'अ', 'त्', 'र्', 'अ', 'भ्', 'अ', 'व्', 'आ', 'न्', 'व्', 'इ', 'च्', 'इ', 'त्', 'र्', 'अ', 'स्', 'अ', 'र्', 'अ', 'स्', 'अ', 'क्', 'अ', 'व्', 'इ', 'त्', 'आ', 'क्', 'अ', 'ल्', 'प्', 'अ', 'ल्', 'अ', 'त्', 'आ', 'म्', 'अ', 'ञ्', 'ज्', 'अ', 'र्', 'य्', 'आ', 'म्', 'ओ', 'द्', 'इ', 'त्', 'आ', 'श्', 'ए', 'ष्', 'अ', 'व्', 'इ', 'ब्', 'उ', 'ध्', 'अ', 'स्', 'अ', 'म्', 'आ', 'ज्', 'ओ']
+(62, 536)	42	Languages.SANSKRIT	ऽनवद्यनिखिलविद्याभिज्ञः	['ऽ', 'न्', 'अ', 'व्', 'अ', 'द्', 'य्', 'अ', 'न्', 'इ', 'ख्', 'इ', 'ल्', 'अ', 'व्', 'इ', 'द्', 'य्', 'आ', 'भ्', 'इ', 'ज्', 'ञ्', 'अ', 'ः']
+(317, 536)	42	Languages.SANSKRIT	सर्वज्ञसार्वभौमो	['स्', 'अ', 'र्', 'व्', 'अ', 'ज्', 'ञ्', 'अ', 'स्', 'आ', 'र्', 'व्', 'अ', 'भ्', 'औ', 'म्', 'ओ']
+(472, 536)	42	Languages.SANSKRIT	भोजनामा	['भ्', 'ओ', 'ज्', 'अ', 'न्', 'आ', 'म्', 'आ']
+(578, 536)	42	Languages.SANSKRIT	महाराजः	['म्', 'अ', 'ह्', 'आ', 'र्', 'आ', 'ज्', 'अ', 'ः']
+(683, 536)	42	Languages.SANSKRIT	समस्तसद्गुणमणिगणाभि	['स्', 'अ', 'म्', 'अ', 'स्', 'त्', 'अ', 'स्', 'अ', 'द्', 'ग्', 'उ', 'ण्', 'अ', 'म्', 'अ', 'ण्', 'इ', 'ग्', 'अ', 'ण्', 'आ', 'भ्', 'इ']
+(61, 581)	36	Languages.SANSKRIT	रामस्य	['र्', 'आ', 'म्', 'अ', 'स्', 'य्', 'अ']
+(131, 581)	36	Languages.SANSKRIT	तारकब्रह्मरूपिणस्तत्रभवतः	['त्', 'आ', 'र्', 'अ', 'क्', 'अ', 'ब्', 'र्', 'अ', 'ह्', 'म्', 'अ', 'र्', 'ऊ', 'प्', 'इ', 'ण्', 'अ', 'स्', 'त्', 'अ', 'त्', 'र्', 'अ', 'भ्', 'अ', 'व्', 'अ', 'त्', 'अ', 'ः']
+(403, 581)	36	Languages.SANSKRIT	श्रीरामस्य	['श्', 'र्', 'ई', 'र्', 'आ', 'म्', 'अ', 'स्', 'य्', 'अ']
+(504, 581)	36	Languages.SANSKRIT	चरितानुवर्णनं	['च्', 'अ', 'र्', 'इ', 'त्', 'आ', 'न्', 'उ', 'व्', 'अ', 'र्', 'ण्', 'अ', 'न्', 'अ', 'ं']
+(648, 581)	36	Languages.SANSKRIT	निःश्रेयसनिदानं	['न्', 'इ', 'ः', 'श्', 'र्', 'ए', 'य्', 'अ', 'स्', 'अ', 'न्', 'इ', 'द्', 'आ', 'न्', 'अ', 'ं']
+(811, 581)	36	Languages.SANSKRIT	निजान्तरङ्गे	['न्', 'इ', 'ज्', 'आ', 'न्', 'त्', 'अ', 'र्', 'अ', 'ङ्', 'ग्', 'ए']
+(62, 622)	38	Languages.SANSKRIT	निर्वर्ण्य	['न्', 'इ', 'र्', 'व्', 'अ', 'र्', 'ण्', 'य्', 'अ']
+(143, 622)	38	Languages.SANSKRIT	'	'
+(157, 622)	38	Languages.SANSKRIT	काव्यं	['क्', 'आ', 'व्', 'य्', 'अ', 'ं']
+(215, 622)	38	Languages.SANSKRIT	यशसेऽर्थकृते	['य्', 'अ', 'श्', 'अ', 'स्', 'ए', 'ऽ', 'र्', 'थ्', 'अ', 'क्', 'ऋ', 'त्', 'ए']
+(356, 622)	38	Languages.SANSKRIT	व्यवहारविदे	['व्', 'य्', 'अ', 'व्', 'अ', 'ह्', 'आ', 'र्', 'अ', 'व्', 'इ', 'द्', 'ए']
+(491, 622)	38	Languages.SANSKRIT	शिवेतरक्षतये	['श्', 'इ', 'व्', 'ए', 'त्', 'अ', 'र्', 'अ', 'क्', 'ष्', 'अ', 'त्', 'अ', 'य्', 'ए']
+(639, 622)	38	Languages.SANSKRIT	|	|
+(657, 622)	38	Languages.SANSKRIT	सद्यः	['स्', 'अ', 'द्', 'य्', 'अ', 'ः']
+(716, 622)	38	Languages.SANSKRIT	परनिर्वृतये	['प्', 'अ', 'र्', 'अ', 'न्', 'इ', 'र्', 'व्', 'ऋ', 'त्', 'अ', 'य्', 'ए']
+(833, 622)	38	Languages.SANSKRIT	कान्तासं	['क्', 'आ', 'न्', 'त्', 'आ', 'स्', 'अ', 'ं']
+(62, 665)	41	Languages.SANSKRIT	मिततयोपदेशयुजे	['म्', 'इ', 'त्', 'अ', 'त्', 'अ', 'य्', 'ओ', 'प्', 'अ', 'द्', 'ए', 'श्', 'अ', 'य्', 'उ', 'ज्', 'ए']
+(256, 665)	41	Languages.SANSKRIT	॥	['॥']
+(274, 665)	41	Languages.SANSKRIT	'	'
+(299, 664)	41	Languages.SANSKRIT	इत्याद्यलंकारवचनप्रामाण्यात	['इ', 'त्', 'य्', 'आ', 'द्', 'य्', 'अ', 'ल्', 'अ', 'ं', 'क्', 'आ', 'र्', 'अ', 'व्', 'अ', 'च्', 'अ', 'न्', 'अ', 'प्', 'र्', 'आ', 'म्', 'आ', 'ण्', 'य्', 'आ', 'त्', 'अ']
+(586, 663)	41	Languages.SANSKRIT	,	,
+(616, 663)	40	Languages.SANSKRIT	काव्यस्यानेकश्रेयः	['क्', 'आ', 'व्', 'य्', 'अ', 'स्', 'य्', 'आ', 'न्', 'ए', 'क्', 'अ', 'श्', 'र्', 'ए', 'य्', 'अ', 'ः']
+(786, 662)	41	Languages.SANSKRIT	साधनतां	['स्', 'आ', 'ध्', 'अ', 'न्', 'अ', 'त्', 'आ', 'ं']
+(878, 662)	41	Languages.SANSKRIT	'	'
+(896, 662)	41	Languages.SANSKRIT	का	['क्', 'आ']
+(62, 712)	32	Languages.SANSKRIT	व्यालापांच	['व्', 'य्', 'आ', 'ल्', 'आ', 'प्', 'आ', 'ं', 'च्', 'अ']
+(179, 712)	32	Languages.SANSKRIT	वर्जयेत्	['व्', 'अ', 'र्', 'ज्', 'अ', 'य्', 'ए', 'त्']
+(257, 712)	32	Languages.SANSKRIT	'	'
+(274, 712)	32	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(326, 712)	32	Languages.SANSKRIT	निषेधत्यासत्काव्यविषयतां	['न्', 'इ', 'ष्', 'ए', 'ध्', 'अ', 'त्', 'य्', 'आ', 'स्', 'अ', 'त्', 'क्', 'आ', 'व्', 'य्', 'अ', 'व्', 'इ', 'ष्', 'अ', 'य्', 'अ', 'त्', 'आ', 'ं']
+(596, 712)	32	Languages.SANSKRIT	च	['च्', 'अ']
+(628, 712)	32	Languages.SANSKRIT	पश्यन्	['प्', 'अ', 'श्', 'य्', 'अ', 'न्']
+(698, 712)	32	Languages.SANSKRIT	,	,
+(718, 712)	32	Languages.SANSKRIT	सकलकल्याणपरायणं	['स्', 'अ', 'क्', 'अ', 'ल्', 'अ', 'क्', 'अ', 'ल्', 'य्', 'आ', 'ण्', 'अ', 'प्', 'अ', 'र्', 'आ', 'य्', 'अ', 'ण्', 'अ', 'ं']
+(62, 746)	43	Languages.SANSKRIT	श्रीरामायणं	['श्', 'र्', 'ई', 'र्', 'आ', 'म्', 'आ', 'य्', 'अ', 'ण्', 'अ', 'ं']
+(188, 746)	43	Languages.SANSKRIT	चम्पूप्रवन्धात्मना	['च्', 'अ', 'म्', 'प्', 'ऊ', 'प्', 'र्', 'अ', 'व्', 'अ', 'न्', 'ध्', 'आ', 'त्', 'म्', 'अ', 'न्', 'आ']
+(370, 746)	43	Languages.SANSKRIT	चिकीर्षुः	['च्', 'इ', 'क्', 'ई', 'र्', 'ष्', 'उ', 'ः']
+(453, 746)	43	Languages.SANSKRIT	,	,
+(472, 746)	43	Languages.SANSKRIT	चिकीपितानन्तरायपरिसमाप्तिप्रचयगमनलक्ष	['च्', 'इ', 'क्', 'ई', 'प्', 'इ', 'त्', 'आ', 'न्', 'अ', 'न्', 'त्', 'अ', 'र्', 'आ', 'य्', 'अ', 'प्', 'अ', 'र्', 'इ', 'स्', 'अ', 'म्', 'आ', 'प्', 'त्', 'इ', 'प्', 'र्', 'अ', 'च्', 'अ', 'य्', 'अ', 'ग्', 'अ', 'म्', 'अ', 'न्', 'अ', 'ल्', 'अ', 'क्', 'ष्', 'अ']
+(63, 793)	43	Languages.SANSKRIT	णफलसाधनत्वात्	['ण्', 'अ', 'फ्', 'अ', 'ल्', 'अ', 'स्', 'आ', 'ध्', 'अ', 'न्', 'अ', 'त्', 'व्', 'आ', 'त्']
+(241, 792)	43	Languages.SANSKRIT	'	'
+(258, 792)	43	Languages.SANSKRIT	आशीर्नमस्किया	['आ', 'श्', 'ई', 'र्', 'न्', 'अ', 'म्', 'अ', 'स्', 'क्', 'इ', 'य्', 'आ']
+(423, 791)	43	Languages.SANSKRIT	वस्तुनिर्देशो	['व्', 'अ', 'स्', 'त्', 'उ', 'न्', 'इ', 'र्', 'द्', 'ए', 'श्', 'ओ']
+(552, 790)	44	Languages.SANSKRIT	वापि	['व्', 'आ', 'प्', 'इ']
+(624, 790)	42	Languages.SANSKRIT	तन्मुखम्	['त्', 'अ', 'न्', 'म्', 'उ', 'ख्', 'अ', 'म्']
+(717, 790)	43	Languages.SANSKRIT	'	'
+(747, 789)	43	Languages.SANSKRIT	इत्याचार्यदण्डिवा	['इ', 'त्', 'य्', 'आ', 'च्', 'आ', 'र्', 'य्', 'अ', 'द्', 'अ', 'ण्', 'ड्', 'इ', 'व्', 'आ']
+(67, 832)	45	Languages.SANSKRIT	क्यादाशीराद्यन्यतमस्य	['क्', 'य्', 'आ', 'द्', 'आ', 'श्', 'ई', 'र्', 'आ', 'द्', 'य्', 'अ', 'न्', 'य्', 'अ', 'त्', 'अ', 'म्', 'अ', 'स्', 'य्', 'अ']
+(309, 832)	45	Languages.SANSKRIT	प्रवन्धमुखलक्षणलाच्च	['प्', 'र्', 'अ', 'व्', 'अ', 'न्', 'ध्', 'अ', 'म्', 'उ', 'ख्', 'अ', 'ल्', 'अ', 'क्', 'ष्', 'अ', 'ण्', 'अ', 'ल्', 'आ', 'च्', 'च्', 'अ']
+(530, 832)	45	Languages.SANSKRIT	तवादी	['त्', 'अ', 'व्', 'आ', 'द्', 'ई']
+(611, 832)	45	Languages.SANSKRIT	लक्ष्मीशब्दपूर्वकमाशिषं	['ल्', 'अ', 'क्', 'ष्', 'म्', 'ई', 'श्', 'अ', 'ब्', 'द्', 'अ', 'प्', 'ऊ', 'र्', 'व्', 'अ', 'क्', 'अ', 'म्', 'आ', 'श्', 'इ', 'ष्', 'अ', 'ं']
+(841, 832)	45	Languages.SANSKRIT	प्रयुक्त	['प्', 'र्', 'अ', 'य्', 'उ', 'क्', 'त्', 'अ']
+(908, 832)	45	Languages.SANSKRIT	–	–
+(250, 880)	51	Languages.SANSKRIT	लक्ष्मी	['ल्', 'अ', 'क्', 'ष्', 'म्', 'ई']
+(339, 879)	50	Languages.SANSKRIT	तनोतु	['त्', 'अ', 'न्', 'ओ', 'त्', 'उ']
+(425, 877)	48	Languages.SANSKRIT	नितरामितरानपेक्ष	['न्', 'इ', 'त्', 'अ', 'र्', 'आ', 'म्', 'इ', 'त्', 'अ', 'र्', 'आ', 'न्', 'अ', 'प्', 'ए', 'क्', 'ष्', 'अ']
+(297, 933)	49	Languages.SANSKRIT	मङ्घ्रिद्वयं	['म्', 'अ', 'ङ्', 'घ्', 'र्', 'इ', 'द्', 'व्', 'अ', 'य्', 'अ', 'ं']
+(410, 932)	47	Languages.SANSKRIT	निगमशाखिशिखाप्रवालम्	['न्', 'इ', 'ग्', 'अ', 'म्', 'अ', 'श्', 'आ', 'ख्', 'इ', 'श्', 'इ', 'ख्', 'आ', 'प्', 'र्', 'अ', 'व्', 'आ', 'ल्', 'अ', 'म्']
+(734, 929)	49	Languages.SANSKRIT	।	['।']
+(248, 974)	48	Languages.SANSKRIT	हैरम्बमम्बुरुहडम्बरचौर्यनिघ्नं	['ह्', 'ऐ', 'र्', 'अ', 'म्', 'ब्', 'अ', 'म्', 'अ', 'म्', 'ब्', 'उ', 'र्', 'उ', 'ह्', 'अ', 'ड्', 'अ', 'म्', 'ब्', 'अ', 'र्', 'अ', 'च्', 'औ', 'र्', 'य्', 'अ', 'न्', 'इ', 'घ्', 'न्', 'अ', 'ं']
+(297, 1022)	51	Languages.SANSKRIT	विघ्नाद्रिभेदशतधारधुरंधरं	['व्', 'इ', 'घ्', 'न्', 'आ', 'द्', 'र्', 'इ', 'भ्', 'ए', 'द्', 'अ', 'श्', 'अ', 'त्', 'अ', 'ध्', 'आ', 'र्', 'अ', 'ध्', 'उ', 'र्', 'अ', 'ं', 'ध्', 'अ', 'र्', 'अ', 'ं']
+(618, 1026)	47	Languages.SANSKRIT	नः	['न्', 'अ', 'ः']
+(668, 1027)	47	Languages.SANSKRIT	॥	['॥']
+(709, 1027)	47	Languages.SANSKRIT	१	['१']
+(745, 1027)	47	Languages.SANSKRIT	॥	['॥']
+(101, 1078)	44	Languages.SANSKRIT	लक्ष्मीमिति	['ल्', 'अ', 'क्', 'ष्', 'म्', 'ई', 'म्', 'इ', 'त्', 'इ']
+(257, 1078)	44	Languages.SANSKRIT	|	|
+(286, 1078)	44	Languages.SANSKRIT	आदी	['आ', 'द्', 'ई']
+(357, 1078)	44	Languages.SANSKRIT	लक्ष्मीशब्दप्रयोगाद्वर्णगणादिशुद्धेरभ्युच्छ्रयः	['ल्', 'अ', 'क्', 'ष्', 'म्', 'ई', 'श्', 'अ', 'ब्', 'द्', 'अ', 'प्', 'र्', 'अ', 'य्', 'ओ', 'ग्', 'आ', 'द्', 'व्', 'अ', 'र्', 'ण्', 'अ', 'ग्', 'अ', 'ण्', 'आ', 'द्', 'इ', 'श्', 'उ', 'द्', 'ध्', 'ए', 'र्', 'अ', 'भ्', 'य्', 'उ', 'च्', 'छ्', 'र्', 'अ', 'य्', 'अ', 'ः']
+(792, 1078)	44	Languages.SANSKRIT	।	['।']
+(810, 1078)	44	Languages.SANSKRIT	तदुक्तम्	['त्', 'अ', 'द्', 'उ', 'क्', 'त्', 'अ', 'म्']
+(64, 1126)	41	Languages.SANSKRIT	'	'
+(76, 1125)	40	Languages.SANSKRIT	देवतावाचकाः	['द्', 'ए', 'व्', 'अ', 'त्', 'आ', 'व्', 'आ', 'च्', 'अ', 'क्', 'आ', 'ः']
+(223, 1125)	41	Languages.SANSKRIT	शब्दा	['श्', 'अ', 'ब्', 'द्', 'आ']
+(291, 1125)	41	Languages.SANSKRIT	ये	['य्', 'ए']
+(321, 1124)	41	Languages.SANSKRIT	च	['च्', 'अ']
+(353, 1124)	40	Languages.SANSKRIT	भद्रादिवाचकाः	['भ्', 'अ', 'द्', 'र्', 'आ', 'द्', 'इ', 'व्', 'आ', 'च्', 'अ', 'क्', 'आ', 'ः']
+(513, 1124)	41	Languages.SANSKRIT	।	['।']
+(529, 1124)	41	Languages.SANSKRIT	ते	['त्', 'ए']
+(561, 1123)	41	Languages.SANSKRIT	सर्वे	['स्', 'अ', 'र्', 'व्', 'ए']
+(607, 1123)	41	Languages.SANSKRIT	नैव	['न्', 'ऐ', 'व्', 'अ']
+(649, 1123)	41	Languages.SANSKRIT	निन्द्याः	['न्', 'इ', 'न्', 'द्', 'य्', 'आ', 'ः']
+(731, 1122)	42	Languages.SANSKRIT	स्युलिंपितो	['स्', 'य्', 'उ', 'ल्', 'इ', 'ं', 'प्', 'इ', 'त्', 'ओ']
+(857, 1122)	41	Languages.SANSKRIT	गणतो	['ग्', 'अ', 'ण्', 'अ', 'त्', 'ओ']
+(65, 1169)	39	Languages.SANSKRIT	ऽपि	['ऽ', 'प्', 'इ']
+(115, 1169)	38	Languages.SANSKRIT	वा	['व्', 'आ']
+(155, 1169)	38	Languages.SANSKRIT	॥	['॥']
+(170, 1169)	38	Languages.SANSKRIT	”	”
+(188, 1169)	38	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(243, 1169)	38	Languages.SANSKRIT	।	['।']
+(260, 1169)	38	Languages.SANSKRIT	निगमा	['न्', 'इ', 'ग्', 'अ', 'म्', 'आ']
+(349, 1168)	38	Languages.SANSKRIT	वेदास्त	['व्', 'ए', 'द्', 'आ', 'स्', 'त्', 'अ']
+(429, 1168)	38	Languages.SANSKRIT	एव	['ए', 'व्', 'अ']
+(474, 1168)	38	Languages.SANSKRIT	शाखिनो	['श्', 'आ', 'ख्', 'इ', 'न्', 'ओ']
+(578, 1167)	39	Languages.SANSKRIT	वृक्षाः	['व्', 'ऋ', 'क्', 'ष्', 'आ', 'ः']
+(647, 1167)	38	Languages.SANSKRIT	|	|
+(666, 1167)	38	Languages.SANSKRIT	'	'
+(674, 1167)	38	Languages.SANSKRIT	वृक्षो	['व्', 'ऋ', 'क्', 'ष्', 'ओ']
+(730, 1167)	38	Languages.SANSKRIT	महीरुहः	['म्', 'अ', 'ह्', 'ई', 'र्', 'उ', 'ह्', 'अ', 'ः']
+(825, 1166)	39	Languages.SANSKRIT	शाखी	['श्', 'आ', 'ख्', 'ई']
+(887, 1166)	38	Languages.SANSKRIT	'	'
+(905, 1166)	38	Languages.SANSKRIT	इ	['इ']
+(65, 1212)	39	Languages.SANSKRIT	यमरः	['य्', 'अ', 'म्', 'अ', 'र्', 'अ', 'ः']
+(145, 1212)	38	Languages.SANSKRIT	।	['।']
+(162, 1212)	37	Languages.SANSKRIT	श्रीह्यादिलादिनिः	['श्', 'र्', 'ई', 'ह्', 'य्', 'आ', 'द्', 'इ', 'ल्', 'आ', 'द्', 'इ', 'न्', 'इ', 'ः']
+(341, 1211)	38	Languages.SANSKRIT	।	['।']
+(356, 1211)	38	Languages.SANSKRIT	तेषां	['त्', 'ए', 'ष्', 'आ', 'ं']
+(412, 1211)	38	Languages.SANSKRIT	शिखा	['श्', 'इ', 'ख्', 'आ']
+(483, 1210)	39	Languages.SANSKRIT	उपनिषदः	['उ', 'प्', 'अ', 'न्', 'इ', 'ष्', 'अ', 'द्', 'अ', 'ः']
+(592, 1210)	38	Languages.SANSKRIT	।	['।']
+(610, 1210)	38	Languages.SANSKRIT	ता	['त्', 'आ']
+(647, 1210)	38	Languages.SANSKRIT	एव	['ए', 'व्', 'अ']
+(692, 1210)	38	Languages.SANSKRIT	शिखा	['श्', 'इ', 'ख्', 'आ']
+(760, 1209)	38	Languages.SANSKRIT	अग्राणीति	['अ', 'ग्', 'र्', 'आ', 'ण्', 'ई', 'त्', 'इ']
+(873, 1209)	38	Languages.SANSKRIT	श्लिष्ट	['श्', 'ल्', 'इ', 'ष्', 'ट्', 'अ']
+(67, 1255)	39	Languages.SANSKRIT	रूपकम्	['र्', 'ऊ', 'प्', 'अ', 'क्', 'अ', 'म्']
+(152, 1255)	38	Languages.SANSKRIT	|	|
+(169, 1255)	38	Languages.SANSKRIT	मौलयश्च	['म्', 'औ', 'ल्', 'अ', 'य्', 'अ', 'श्', 'च्', 'अ']
+(265, 1254)	39	Languages.SANSKRIT	प्रतीयन्ते	['प्', 'र्', 'अ', 'त्', 'ई', 'य्', 'अ', 'न्', 'त्', 'ए']
+(371, 1254)	38	Languages.SANSKRIT	।	['।']
+(388, 1254)	38	Languages.SANSKRIT	तासां	['त्', 'आ', 'स्', 'आ', 'ं']
+(448, 1254)	38	Languages.SANSKRIT	प्रवालं	['प्', 'र्', 'अ', 'व्', 'आ', 'ल्', 'अ', 'ं']
+(517, 1253)	39	Languages.SANSKRIT	नवपलवम्	['न्', 'अ', 'व्', 'अ', 'प्', 'अ', 'ल्', 'अ', 'व्', 'अ', 'म्']
+(631, 1253)	38	Languages.SANSKRIT	।	['।']
+(646, 1253)	37	Languages.SANSKRIT	वेदान्तवेद्यमित्यर्थः	['व्', 'ए', 'द्', 'आ', 'न्', 'त्', 'अ', 'व्', 'ए', 'द्', 'य्', 'अ', 'म्', 'इ', 'त्', 'य्', 'अ', 'र्', 'थ्', 'अ', 'ः']
+(846, 1252)	38	Languages.SANSKRIT	।	['।']
+(862, 1252)	38	Languages.SANSKRIT	'	'
+(870, 1252)	38	Languages.SANSKRIT	शिखा	['श्', 'इ', 'ख्', 'आ']
+(66, 1292)	43	Languages.SANSKRIT	ज्वालाकेकिमौल्योः	['ज्', 'व्', 'आ', 'ल्', 'आ', 'क्', 'ए', 'क्', 'इ', 'म्', 'औ', 'ल्', 'य्', 'ओ', 'ः']
+(260, 1292)	43	Languages.SANSKRIT	शिखा	['श्', 'इ', 'ख्', 'आ']
+(332, 1292)	43	Languages.SANSKRIT	शाखाप्रमौलिपु	['श्', 'आ', 'ख्', 'आ', 'प्', 'र्', 'अ', 'म्', 'औ', 'ल्', 'इ', 'प्', 'उ']
+(479, 1292)	43	Languages.SANSKRIT	'	'
+(492, 1292)	43	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(538, 1292)	43	Languages.SANSKRIT	वैजयन्ती	['व्', 'ऐ', 'ज्', 'अ', 'य्', 'अ', 'न्', 'त्', 'ई']
+(640, 1292)	43	Languages.SANSKRIT	।	['।']
+(654, 1292)	43	Languages.SANSKRIT	'	'
+(669, 1292)	43	Languages.SANSKRIT	प्रवाल	['प्', 'र्', 'अ', 'व्', 'आ', 'ल्', 'अ']
+(750, 1292)	43	Languages.SANSKRIT	वाहकीदण्डे	['व्', 'आ', 'ह्', 'अ', 'क्', 'ई', 'द्', 'अ', 'ण्', 'ड्', 'ए']
+(872, 1292)	43	Languages.SANSKRIT	विद्रुमे	['व्', 'इ', 'द्', 'र्', 'उ', 'म्', 'ए']
+(66, 1337)	43	Languages.SANSKRIT	नवपट्टवे	['न्', 'अ', 'व्', 'अ', 'प्', 'अ', 'ट्', 'ट्', 'अ', 'व्', 'ए']
+(150, 1337)	43	Languages.SANSKRIT	'	'
+(168, 1337)	43	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(219, 1337)	43	Languages.SANSKRIT	शब्दार्णवे	['श्', 'अ', 'ब्', 'द्', 'आ', 'र्', 'ण्', 'अ', 'व्', 'ए']
+(318, 1337)	43	Languages.SANSKRIT	।	['।']
+(335, 1337)	43	Languages.SANSKRIT	अञ्जु	['अ', 'ञ्', 'ज्', 'उ']
+(429, 1337)	43	Languages.SANSKRIT	रोहतीलम्बुरुहं	['र्', 'ओ', 'ह्', 'अ', 'त्', 'ई', 'ल्', 'अ', 'म्', 'ब्', 'उ', 'र्', 'उ', 'ह्', 'अ', 'ं']
+(597, 1337)	43	Languages.SANSKRIT	पद्मं	['प्', 'अ', 'द्', 'म्', 'अ', 'ं']
+(655, 1337)	43	Languages.SANSKRIT	तस्य	['त्', 'अ', 'स्', 'य्', 'अ']
+(723, 1337)	43	Languages.SANSKRIT	यो	['य्', 'ओ']
+(754, 1337)	43	Languages.SANSKRIT	उम्बरः	['उ', 'म्', 'ब्', 'अ', 'र्', 'अ', 'ः']
+(829, 1337)	43	Languages.SANSKRIT	सौभाग्या	['स्', 'औ', 'भ्', 'आ', 'ग्', 'य्', 'आ']
+(67, 1383)	41	Languages.SANSKRIT	तिशयसंरम्भस्तस्य	['त्', 'इ', 'श्', 'अ', 'य्', 'अ', 'स्', 'अ', 'ं', 'र्', 'अ', 'म्', 'भ्', 'अ', 'स्', 'त्', 'अ', 'स्', 'य्', 'अ']
+(273, 1383)	41	Languages.SANSKRIT	चौर्येऽपहरणे	['च्', 'औ', 'र्', 'य्', 'ए', 'ऽ', 'प्', 'अ', 'ह्', 'अ', 'र्', 'अ', 'ण्', 'ए']
+(413, 1383)	41	Languages.SANSKRIT	|	|
+(430, 1383)	41	Languages.SANSKRIT	ब्राह्मणादिलात्व्यञ्	['ब्', 'र्', 'आ', 'ह्', 'म्', 'अ', 'ण्', 'आ', 'द्', 'इ', 'ल्', 'आ', 'त्', 'व्', 'य्', 'अ', 'ञ्']
+(626, 1383)	41	Languages.SANSKRIT	|	|
+(641, 1383)	41	Languages.SANSKRIT	निम्नमायत्तम्	['न्', 'इ', 'म्', 'न्', 'अ', 'म्', 'आ', 'य्', 'अ', 'त्', 'त्', 'अ', 'म्']
+(780, 1383)	41	Languages.SANSKRIT	|	|
+(813, 1383)	41	Languages.SANSKRIT	अम्बुरुहसौ	['अ', 'म्', 'ब्', 'उ', 'र्', 'उ', 'ह्', 'अ', 'स्', 'औ']
+(68, 1423)	44	Languages.SANSKRIT	भाग्यापहारीत्यर्थः	['भ्', 'आ', 'ग्', 'य्', 'आ', 'प्', 'अ', 'ह्', 'आ', 'र्', 'ई', 'त्', 'य्', 'अ', 'र्', 'थ्', 'अ', 'ः']
+(263, 1423)	44	Languages.SANSKRIT	।	['।']
+(281, 1423)	44	Languages.SANSKRIT	‘	‘
+(299, 1423)	44	Languages.SANSKRIT	अधीनो	['अ', 'ध्', 'ई', 'न्', 'ओ']
+(375, 1423)	44	Languages.SANSKRIT	निम्न	['न्', 'इ', 'म्', 'न्', 'अ']
+(430, 1423)	44	Languages.SANSKRIT	आयत्तः	['आ', 'य्', 'अ', 'त्', 'त्', 'अ', 'ः']
+(510, 1423)	44	Languages.SANSKRIT	'	'
+(529, 1423)	44	Languages.SANSKRIT	इत्यमरः	['इ', 'त्', 'य्', 'अ', 'म्', 'अ', 'र्', 'अ', 'ः']
+(623, 1423)	44	Languages.SANSKRIT	।	['।']
+(641, 1423)	44	Languages.SANSKRIT	अत	['अ', 'त्', 'अ']
+(692, 1423)	44	Languages.SANSKRIT	एव	['ए', 'व्', 'अ']
+(749, 1423)	44	Languages.SANSKRIT	सादृदयपर्यवसाना	['स्', 'आ', 'द्', 'ऋ', 'द्', 'अ', 'य्', 'अ', 'प्', 'अ', 'र्', 'य्', 'अ', 'व्', 'अ', 'स्', 'आ', 'न्', 'आ']
+(69, 1470)	40	Languages.SANSKRIT	दुपमा	['द्', 'उ', 'प्', 'अ', 'म्', 'आ']
+(142, 1470)	40	Languages.SANSKRIT	|	|
+(160, 1470)	40	Languages.SANSKRIT	डम्बरेल	['ड्', 'अ', 'म्', 'ब्', 'अ', 'र्', 'ए', 'ल्', 'अ']
+(278, 1470)	40	Languages.SANSKRIT	दम्यन्ते	['द्', 'अ', 'म्', 'य्', 'अ', 'न्', 'त्', 'ए']
+(366, 1470)	40	Languages.SANSKRIT	भीरवोऽनेनेति	['भ्', 'ई', 'र्', 'अ', 'व्', 'ओ', 'ऽ', 'न्', 'ए', 'न्', 'ए', 'त्', 'इ']
+(520, 1470)	40	Languages.SANSKRIT	डम्बर	['ड्', 'अ', 'म्', 'ब्', 'अ', 'र्', 'अ']
+(586, 1470)	40	Languages.SANSKRIT	:	:
+(606, 1470)	40	Languages.SANSKRIT	।	['।']
+(625, 1470)	40	Languages.SANSKRIT	'	'
+(637, 1470)	40	Languages.SANSKRIT	दमु	['द्', 'अ', 'म्', 'उ']
+(680, 1470)	40	Languages.SANSKRIT	उपशमे	['उ', 'प्', 'अ', 'श्', 'अ', 'म्', 'ए']
+(754, 1470)	40	Languages.SANSKRIT	'	'
+(774, 1470)	40	Languages.SANSKRIT	।	['।']
+(794, 1470)	40	Languages.SANSKRIT	औणादिकला	['औ', 'ण्', 'आ', 'द्', 'इ', 'क्', 'अ', 'ल्', 'आ']
+(68, 1508)	47	Languages.SANSKRIT	द्वरप्रत्ययः	['द्', 'व्', 'अ', 'र्', 'अ', 'प्', 'र्', 'अ', 'त्', 'य्', 'अ', 'य्', 'अ', 'ः']
+(172, 1508)	47	Languages.SANSKRIT	,	,
+(188, 1508)	47	Languages.SANSKRIT	टपोदरादित्वाद्वर्णव्यलयथ	['ट्', 'अ', 'प्', 'ओ', 'द्', 'अ', 'र्', 'आ', 'द्', 'इ', 'त्', 'व्', 'आ', 'द्', 'व्', 'अ', 'र्', 'ण्', 'अ', 'व्', 'य्', 'अ', 'ल्', 'अ', 'य्', 'अ', 'थ्', 'अ']
+(460, 1508)	47	Languages.SANSKRIT	।	['।']
+(484, 1508)	47	Languages.SANSKRIT	सुबोधिनीकारस्तु	['स्', 'उ', 'ब्', 'ओ', 'ध्', 'इ', 'न्', 'ई', 'क्', 'आ', 'र्', 'अ', 'स्', 'त्', 'उ']
+(656, 1508)	47	Languages.SANSKRIT	–	–
+(676, 1508)	47	Languages.SANSKRIT	'	'
+(691, 1508)	47	Languages.SANSKRIT	डम्ब	['ड्', 'अ', 'म्', 'ब्', 'अ']
+(742, 1508)	47	Languages.SANSKRIT	विक्षेपे	['व्', 'इ', 'क्', 'ष्', 'ए', 'प्', 'ए']
+(803, 1508)	47	Languages.SANSKRIT	'	'
+(820, 1508)	47	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(868, 1508)	47	Languages.SANSKRIT	बान्तो	['ब्', 'आ', 'न्', 'त्', 'ओ']
+(108, 1572)	30	Languages.SANSKRIT	१.	१.
+(143, 1572)	30	Languages.SANSKRIT	'	'
+(157, 1572)	30	Languages.SANSKRIT	भुतराम्	['भ्', 'उ', 'त्', 'अ', 'र्', 'आ', 'म्']
+(229, 1572)	30	Languages.SANSKRIT	'	'
+(250, 1572)	30	Languages.SANSKRIT	इति	['इ', 'त्', 'इ']
+(303, 1572)	30	Languages.SANSKRIT	पाट	['प्', 'आ', 'ट्', 'अ']
+(343, 1572)	30	Languages.SANSKRIT	:.	:.
+(944, 638)	4	Languages.ENGLISH	4	
