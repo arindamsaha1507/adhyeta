@@ -1,5 +1,7 @@
+TextType.OTHER	महाकविश्रीकालिदासविरचितः ।
 TextType.OTHER	महामहोपाध्यायकोलाचलमल्लिनाथ सूरिविरचितया
 TextType.OTHER	संजीविन्या समेतः ।
+TextType.OTHER	मोरेश्वर रामचन्द्र काळे
 TextType.OTHER	इत्यनेन
 TextType.OTHER	टिपण्यादिभिरलंकृत्य पाठान्तरैः संयोज्य संशोधितः ।
 TextType.OTHER	स च

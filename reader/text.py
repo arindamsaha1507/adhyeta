@@ -240,23 +240,32 @@ def get_pages(lines: list[Line]) -> list[Page]:
 def classify_line(line: Line, typ: TextType) -> None:
     """Classifies a line of text."""
 
-    line.line_type = typ
+    if line.line_type == TextType.OTHER:
+        line.line_type = typ
 
 
 def classifier(lines: list[Line]) -> list[Line]:
     """Classifies lines of text."""
 
     for index, line in enumerate(lines):
-        if line.line_type != TextType.OTHER:
-            continue
-
-        print(line.words[-1].raw)
         if "॥" == line.words[-1].raw:
-            print("QWERTY")
-
             if line.words[-2].raw[0] in NUMBERS:
                 classify_line(line, TextType.MOOLA)
-                classify_line(lines[index + 1], TextType.BHAASHYA)
+                classify_line(lines[index - 1], TextType.MOOLA)
+                if (
+                    lines[index - 1].words[-1].raw[0] != "।"
+                    and lines[index - 2].words[-1].raw[0] == "।"
+                ):
+                    classify_line(lines[index - 2], TextType.MOOLA)
+                    classify_line(lines[index - 3], TextType.MOOLA)
+                    classify_line(lines[index - 4], TextType.BHAASHYA)
+                    print(lines[index - 4].line, "A")
+                else:
+                    classify_line(lines[index - 2], TextType.BHAASHYA)
+                    print(lines[index - 2].line, "B")
+                    print(lines[index - 1].words[-1].raw)
+                    print(lines[index - 2].words[-1].raw)
+
                 continue
 
     return lines
@@ -267,11 +276,15 @@ def get_effective_lines(original: list[Line]) -> list[Line]:
 
     lines = []
     for line in original:
-        if line.line_height > 50:
+        if line.line_height > 55:
             continue
         if re.search("[a-zA-Z]", line.line):
             continue
         if re.search("[0-9]", line.line):
+            continue
+        if line.line[0] in NUMBERS:
+            continue
+        if line.line[0] in ["-", "—"]:
             continue
 
         flag = False

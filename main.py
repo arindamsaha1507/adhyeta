@@ -86,8 +86,8 @@ def main():
         words = [Word(text) for text in texts]
         lines = get_lines(words)
         # pages = get_pages(lines)
-        lines = classifier(lines)
         lines = get_effective_lines(lines)
+        lines = classifier(lines)
         write_lines_to_file(lines, f"raw_text/{book_name}.txt")
 
 
