@@ -25,7 +25,7 @@ def main():
         else:
             convert_book_to_images(book_path, book_image_directory)
 
-        ocr_bulk(book_image_directory)
+        ocr_bulk(book_image_directory, limit=5)
 
 
 if __name__ == "__main__":
