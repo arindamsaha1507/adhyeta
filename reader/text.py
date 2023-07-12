@@ -27,6 +27,11 @@ class TextBox:
         """Area of the text box."""
         return self.width * self.height
 
+    @property
+    def location(self) -> tuple:
+        """Location of the text box."""
+        return (self.top_left[0], self.top_left[1])
+
 
 @dataclass
 class Text:
@@ -46,3 +51,7 @@ class Text:
     def word_count(self) -> int:
         """Number of words in the text box."""
         return len(self.words)
+
+    def __repr__(self) -> str:
+        string = f"Book: {self.book}; Page: {self.page}; Word Count: {self.word_count}; Box Height: {self.box.height}; Box Location: {self.box.location}"
+        return string

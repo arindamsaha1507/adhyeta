@@ -72,7 +72,7 @@ def ocr_single(
 
 def ocr_bulk(
     in_dir: str, out_path: Optional[str] = None, limit: Optional[int] = None
-) -> None:
+) -> list[Text]:
     """Detects text in directory."""
 
     if out_path:
@@ -85,10 +85,14 @@ def ocr_bulk(
     if limit:
         image_paths = image_paths[:limit]
 
+    text = []
+
     for image_path in image_paths:
         in_file = os.path.join(in_dir, image_path)
         if out_path:
             out_file = os.path.join(out_path, image_path.replace(".png", ".txt"))
-            ocr_single(in_file, out_file)
+            text.extend(ocr_single(in_file, out_file))
         else:
-            ocr_single(in_file)
+            text.extend(ocr_single(in_file))
+
+    return text
