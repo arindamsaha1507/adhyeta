@@ -81,6 +81,7 @@ class Word:
     language: Languages = field(init=False)
     vinyaasa: Optional[list[str]] = field(init=False)
     moola: bool = field(init=False)
+    line: int = field(init=False)
 
     def __post_init__(self) -> None:
         if self.text.word_count > 1:
@@ -109,3 +110,15 @@ class Word:
     def location(self) -> tuple:
         """Location of the text box."""
         return self.text.box.location
+
+
+def get_lines(words: list[Word]) -> None:
+    """Identifies the number of words in each line."""
+
+    current_line = 1
+    current_location = words[0].location[1]
+    for word in words:
+        if abs(word.location[1] - current_location) > word.size:
+            current_line += 1
+            current_location = word.location[1]
+        word.line = current_line

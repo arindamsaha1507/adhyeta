@@ -4,7 +4,7 @@ import os
 
 from reader.extract_pages import convert_book_to_images
 from reader.ocr import ocr_bulk
-from reader.text import Text, Word
+from reader.text import Text, Word, get_lines
 
 
 def write_text_to_file(texts: list[Text], out_path: str) -> None:
@@ -28,7 +28,7 @@ def write_words_to_file(words: list[Word], out_path: str) -> None:
     with open(out_path, "w", encoding="utf-8") as file:
         for word in words:
             file.write(
-                f"{word.location}\t{word.size}\t{word.language}\t{word.raw}\t{word.vinyaasa if word.vinyaasa else ''}\n"
+                f"{word.location}\t{word.size}\t{word.language}\t{word.raw}\t{word.line}\n"
             )
 
 
@@ -51,12 +51,10 @@ def main():
         else:
             convert_book_to_images(book_path, book_image_directory)
 
-        texts = ocr_bulk(book_image_directory, limit=6)
-
+        texts = ocr_bulk(book_image_directory)
         texts = [text for text in texts if text.word_count == 1]
-
         words = [Word(text) for text in texts]
-
+        get_lines(words)
         write_words_to_file(words, f"raw_text/{book_name}.txt")
 
 
