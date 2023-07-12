@@ -4,7 +4,7 @@ import os
 
 from reader.extract_pages import convert_book_to_images
 from reader.ocr import ocr_bulk
-from reader.text import Text, Word, get_lines
+from reader.text import Text, Word, Line, get_lines
 
 
 def write_text_to_file(texts: list[Text], out_path: str) -> None:
@@ -32,6 +32,14 @@ def write_words_to_file(words: list[Word], out_path: str) -> None:
             )
 
 
+def write_lines_to_file(lines: list[Line], out_path: str) -> None:
+    """Writes the line to a file."""
+
+    with open(out_path, "w", encoding="utf-8") as file:
+        for line in lines:
+            file.write(f"{line.line_type}\t{line.line_height}\t{line.line}\n")
+
+
 def main():
     """The main function."""
 
@@ -51,11 +59,11 @@ def main():
         else:
             convert_book_to_images(book_path, book_image_directory)
 
-        texts = ocr_bulk(book_image_directory)
+        texts = ocr_bulk(book_image_directory, limit=10)
         texts = [text for text in texts if text.word_count == 1]
         words = [Word(text) for text in texts]
-        get_lines(words)
-        write_words_to_file(words, f"raw_text/{book_name}.txt")
+        lines = get_lines(words)
+        write_lines_to_file(lines, f"raw_text/{book_name}.txt")
 
 
 if __name__ == "__main__":

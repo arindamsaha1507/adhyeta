@@ -16,6 +16,14 @@ class Languages(Enum):
     OTHER = "und"
 
 
+class TextType(Enum):
+    """Type of text."""
+
+    MOOLA = "moola"
+    BHAASHYA = "bhaashya"
+    OTHER = "other"
+
+
 @dataclass
 class TextBox:
     """Class to store a text box identified by ocr."""
@@ -112,13 +120,43 @@ class Word:
         return self.text.box.location
 
 
-def get_lines(words: list[Word]) -> None:
+@dataclass
+class Line:
+    """Class to store a line of text."""
+
+    words: list[Word]
+    page: int = field(init=False)
+    line_type: TextType = field(init=False)
+
+    def __post_init__(self) -> None:
+        self.page = self.words[0].text.page
+
+    @property
+    def line(self) -> str:
+        """Line of text."""
+        return " ".join([word.raw for word in self.words])
+
+    @property
+    def line_height(self) -> int:
+        """Height of the line."""
+        return sum(self.words[i].size for i in range(len(self.words))) / len(self.words)
+
+
+def get_lines(words: list[Word]) -> list[Line]:
     """Identifies the number of words in each line."""
 
+    lines = []
+
     current_line = 1
+    starting_index = 0
     current_location = words[0].location[1]
-    for word in words:
-        if abs(word.location[1] - current_location) > word.size:
+    for index, word in enumerate(words):
+        if abs(word.location[1] - current_location) > 0.5 * word.size:
+            lines.append(Line(words[starting_index:index]))
             current_line += 1
             current_location = word.location[1]
+            starting_index = index
+
         word.line = current_line
+
+    return lines
