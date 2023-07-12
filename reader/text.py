@@ -27,7 +27,22 @@ class TextType(Enum):
 TITLE_WORDS = [
     "॥ श्रीः ॥",
     "बालकाण्डम् |",
+    "बालकाण्डम् ।",
     "चम्पूरामायणम् |",
+    "चम्पूरामायणम् ।",
+]
+
+NUMBERS = [
+    "०",
+    "१",
+    "२",
+    "३",
+    "४",
+    "५",
+    "६",
+    "७",
+    "८",
+    "९",
 ]
 
 
@@ -133,7 +148,7 @@ class Line:
 
     words: list[Word]
     page: int = field(init=False)
-    line_type: TextType = field(init=False)
+    line_type: TextType = field(init=False, default=TextType.OTHER)
 
     def __post_init__(self) -> None:
         self.page = self.words[0].text.page
@@ -220,3 +235,52 @@ def get_pages(lines: list[Line]) -> list[Page]:
         pages.append(Page([line for line in lines if line.page == page_no + 1]))
 
     return pages
+
+
+def classify_line(line: Line, typ: TextType) -> None:
+    """Classifies a line of text."""
+
+    line.line_type = typ
+
+
+def classifier(lines: list[Line]) -> list[Line]:
+    """Classifies lines of text."""
+
+    for index, line in enumerate(lines):
+        if line.line_type != TextType.OTHER:
+            continue
+
+        print(line.words[-1].raw)
+        if "॥" == line.words[-1].raw:
+            print("QWERTY")
+
+            if line.words[-2].raw[0] in NUMBERS:
+                classify_line(line, TextType.MOOLA)
+                classify_line(lines[index + 1], TextType.BHAASHYA)
+                continue
+
+    return lines
+
+
+def get_effective_lines(original: list[Line]) -> list[Line]:
+    """Lines of text that excluding title etc."""
+
+    lines = []
+    for line in original:
+        if line.line_height > 50:
+            continue
+        if re.search("[a-zA-Z]", line.line):
+            continue
+        if re.search("[0-9]", line.line):
+            continue
+
+        flag = False
+        for title in TITLE_WORDS:
+            if title in line.line:
+                flag = True
+        if flag:
+            continue
+
+        lines.append(line)
+
+    return lines
