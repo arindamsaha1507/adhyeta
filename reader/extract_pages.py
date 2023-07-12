@@ -30,15 +30,3 @@ def convert_book_to_images(book_path, output_dir):
         image.save(output_file, "PNG")
 
     print(f"Extracted {len(images)} pages to {output_dir}.")
-
-
-def main():
-    """The main function."""
-
-    book_path = "book.pdf"
-    output_dir = "output_images"
-    convert_book_to_images(book_path, output_dir)
-
-
-if __name__ == "__main__":
-    main()
