@@ -24,6 +24,13 @@ class TextType(Enum):
     OTHER = "other"
 
 
+TITLE_WORDS = [
+    "॥ श्रीः ॥",
+    "बालकाण्डम् |",
+    "चम्पूरामायणम् |",
+]
+
+
 @dataclass
 class TextBox:
     """Class to store a text box identified by ocr."""
@@ -142,6 +149,49 @@ class Line:
         return sum(self.words[i].size for i in range(len(self.words))) / len(self.words)
 
 
+@dataclass
+class Page:
+    """Class to store a page of text."""
+
+    lines: list[Line]
+    page_num: int = field(init=False)
+    height: float = field(init=False)
+
+    def __post_init__(self) -> None:
+        if len(self.lines) == 0 or len(self.effective_lines) == 0:
+            self.page_num = -1
+            self.height = -1
+        else:
+            self.page_num = self.lines[0].page
+            self.height = sum(line.line_height for line in self.effective_lines) / len(
+                self.effective_lines
+            )
+
+    @property
+    def effective_lines(self) -> list[Line]:
+        """Lines of text that excluding title etc."""
+
+        lines = []
+        for line in self.lines:
+            if line.line_height > 50:
+                continue
+            if re.search("[a-zA-Z]", line.line):
+                continue
+            if re.search("[0-9]", line.line):
+                continue
+
+            flag = False
+            for title in TITLE_WORDS:
+                if title in line.line:
+                    flag = True
+            if flag:
+                continue
+
+            lines.append(line)
+
+        return lines
+
+
 def get_lines(words: list[Word]) -> list[Line]:
     """Identifies the number of words in each line."""
 
@@ -160,3 +210,13 @@ def get_lines(words: list[Word]) -> list[Line]:
         word.line = current_line
 
     return lines
+
+
+def get_pages(lines: list[Line]) -> list[Page]:
+    """Identifies the number of lines in each page."""
+
+    pages = []
+    for page_no in range(lines[-1].page):
+        pages.append(Page([line for line in lines if line.page == page_no + 1]))
+
+    return pages
