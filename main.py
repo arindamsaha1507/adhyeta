@@ -81,7 +81,7 @@ def main():
         else:
             convert_book_to_images(book_path, book_image_directory)
 
-        texts = ocr_bulk(book_image_directory, limit=10)
+        texts = ocr_bulk(book_image_directory)
         texts = [text for text in texts if text.word_count == 1]
         words = [Word(text) for text in texts]
         lines = get_lines(words)

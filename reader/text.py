@@ -249,7 +249,7 @@ def classifier(lines: list[Line]) -> list[Line]:
 
     for index, line in enumerate(lines):
         if "॥" == line.words[-1].raw:
-            if line.words[-2].raw[0] in NUMBERS:
+            if len(line.words) >= 2 and line.words[-2].raw[0] in NUMBERS:
                 classify_line(line, TextType.MOOLA)
                 classify_line(lines[index - 1], TextType.MOOLA)
                 if (
@@ -259,12 +259,8 @@ def classifier(lines: list[Line]) -> list[Line]:
                     classify_line(lines[index - 2], TextType.MOOLA)
                     classify_line(lines[index - 3], TextType.MOOLA)
                     classify_line(lines[index - 4], TextType.BHAASHYA)
-                    print(lines[index - 4].line, "A")
                 else:
                     classify_line(lines[index - 2], TextType.BHAASHYA)
-                    print(lines[index - 2].line, "B")
-                    print(lines[index - 1].words[-1].raw)
-                    print(lines[index - 2].words[-1].raw)
 
                 continue
 
@@ -276,8 +272,6 @@ def get_effective_lines(original: list[Line]) -> list[Line]:
 
     lines = []
     for line in original:
-        if line.line_height > 55:
-            continue
         if re.search("[a-zA-Z]", line.line):
             continue
         if re.search("[0-9]", line.line):
@@ -297,3 +291,15 @@ def get_effective_lines(original: list[Line]) -> list[Line]:
         lines.append(line)
 
     return lines
+
+
+if __name__ == "__main__":
+    text = [
+        "अथ नृसिंहावतारं वर्णयति",
+        "प्रहादस्य व्यसनममितं देयवर्गस्य दम्भं",
+        "स्तम्भं वक्षःस्थलमपि रिपोर्योगपद्येन भेत्तुम् |",
+        "वद्धश्रद्धं पुरुषवपुषा मिश्रिते विश्वदृष्टे",
+        "दंष्ट्रारोचिर्विशदभुवने रंहसा सिंहवेषे ।। १५ ।।",
+    ]
+    print(text[-1][-1] == "॥")
+    print(text[-1][-1])
