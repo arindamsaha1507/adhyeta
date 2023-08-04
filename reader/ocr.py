@@ -1,6 +1,7 @@
 """Module to test the OCR API from Google Cloud Vision."""
 
 import os
+import multiprocessing
 
 from typing import Optional, Any
 
@@ -70,6 +71,16 @@ def ocr_single(
     return components
 
 
+def process_image_to_file(in_file, out_file) -> list[Text]:
+    """Processes an image and writes the text to a file."""
+
+    return ocr_single(in_file, out_file)
+
+def process_image_to_class(in_file) -> list[Text]:
+    """Processes an image and writes the text to a file."""
+
+    return ocr_single(in_file)
+
 def ocr_bulk(
     in_dir: str, out_path: Optional[str] = None, limit: Optional[int] = None
 ) -> list[Text]:
@@ -85,14 +96,24 @@ def ocr_bulk(
     if limit:
         image_paths = image_paths[:limit]
 
-    text = []
+    args_list = []
 
     for image_path in image_paths:
+
         in_file = os.path.join(in_dir, image_path)
         if out_path:
             out_file = os.path.join(out_path, image_path.replace(".png", ".txt"))
-            text.extend(ocr_single(in_file, out_file))
+            args_list.append((in_file, out_file))
         else:
-            text.extend(ocr_single(in_file))
+            args_list.append((in_file,))
+
+    if out_path:
+        with multiprocessing.Pool() as pool:
+            pool.starmap(process_image_to_file, args_list)
+    else:
+        with multiprocessing.Pool() as pool:
+            results = pool.starmap(process_image_to_class, args_list)
+
+    text = [item for sublist in results if sublist for item in sublist]
 
     return text
