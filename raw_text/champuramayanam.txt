@@ -11729,6 +11729,7 @@ TextType.OTHER	निविदयतेऽन्नेति निवेश स
 TextType.OTHER	अजनि पुन : समीकमनयोरुभयोर्बलयो
 TextType.OTHER	वदलिते मुखेऽपि यदनुज्झितरोपभरम् |
 TextType.OTHER	इति पाठः .
+TextType.OTHER	युद्धकाण्डम् ।.
 TextType.OTHER	अमरमृगीदृशामपि यदाशय पूर्तिकरं
 TextType.OTHER	समरसमुत्सुकेन मुनिना यददृष्टचरम् || ६० ॥ .
 TextType.OTHER	समीकं युद्धमजनि अजनीति | पुनर्भूयोऽप्यनयोरुभयोर्बलयोर्वानरराक्षससैन्ययोः
@@ -12354,14 +12355,12 @@ TextType.OTHER	अदाल
 TextType.OTHER	विष्णुदेवताकमिले ... वो जिस
 TextType.OTHER	प्रसासनकायोग
 TextType.OTHER	दारयतोः । भिद्यः भव असे दशमरा मेरी मायाल
-TextType.OTHER	भिनिवेशादविदितः
 TextType.OTHER	इति धातोलिट् ॥
-TextType.OTHER	शस्त्राशस्त्रीति ।
-TextType.OTHER	।
 TextType.OTHER	शस्त्राशस्त्रि समुत्तुकोऽपि दचितां संचिन्त पर्याकुरला
 TextType.OTHER	मस्त्रेण उपलता निषेण तन्नस्तकान् ।
 TextType.OTHER	रोमः कन्दलितान्छेलापते
 TextType.OTHER	रातन सर्व सभालजगतां चिच्छेद सीतापतिः ॥ ८७ ।।
+TextType.OTHER	शस्त्राशस्त्रीति ।
 TextType.OTHER	✔
 TextType.OTHER	अनमोऽपि ।
 TextType.OTHER	नाममिली ' सकौतुकोऽपि ' इति
